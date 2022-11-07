@@ -10,9 +10,8 @@ API_KEY = os.getenv("API_KEY")
 
 def extract_lat_long_via_address(address_or_zipcode):
     lat, lng = None, None
-    api_key = 'AIzaSyDEB96vXOwgCIrARc7mwnQGJtx9Z7J8J5s'
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
-    endpoint = f"{base_url}?address={address_or_zipcode}&key={api_key}"
+    endpoint = f"{base_url}?address={address_or_zipcode}&key={API_KEY}"
 
     r = requests.get(endpoint)
     if r.status_code not in range(200, 299):
