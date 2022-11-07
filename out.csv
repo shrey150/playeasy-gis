@@ -1,0 +1,772 @@
+,name,type,address,maxSeated,website,lat,lng
+0,Thirlby Field,Sports Complex,"343 W Thirteenth St, Traverse City, MI 49684, USA",0,,44.7526394,-85.6281504
+1,Traverse City Curling Center,Sports Complex,"1712 S Garfield Ave, Traverse City, MI 49686, USA",0,,44.7354433,-85.59770929999999
+2,Howe Ice Arena,Sports Complex,"1125 W Civic Center Dr, Traverse City, MI 49686, USA",0,,44.7629738,-85.59314289999999
+3,Turtle Creek Stadium,Sports Complex,"333 Stadium Dr, Traverse City, MI 49685, USA",0,,44.6822255,-85.6612275
+4,Van Andel Arena,Arena,"130 Fulton St W, Grand Rapids, MI 49503, USA",10000,https://www.vanandelarena.com/,42.9624457,-85.6714195
+5,MSA Fieldhouse,Sports Complex,"5435 28th St Ct SE, Grand Rapids, MI 49546, USA",0,https://michigansportsacademies.com/facilities/msa-fieldhouse/,42.917457,-85.5314806
+6,Griff's Ice House,Arena,"30 Coldbrook St NE, Grand Rapids, MI 49503, USA",0,https://www.griffsicehouse.com/,42.9809589,-85.6658482
+7,Bailey Park,Sports Complex,"1392 Capital Ave NE, Battle Creek, MI 49017, USA",0,,42.3395049,-85.15182539999999
+8,Great Lakes Loons Minor League Baseball,Sports Complex,"825 E Main St, Midland, MI 48640, USA",5200,,43.6089316,-84.2375938
+9,Northeast Little League Complex,Sports Complex,"Plmouth Park Dr, Midland, MI 48642, USA",0,,43.6385272,-84.209444
+10,Saginaw Spirit OHL Hockey,Sports Complex,"303 Johnson St, Saginaw, MI 48607, USA",0,,43.4356338,-83.9352809
+11,Tri-City Sports Complex,Sports Complex,"5117 Garfield Rd, Auburn, MI 48611, USA",0,,43.5942729,-84.0852781
+12,Bay City Bowmen's Club,Sports Complex,"2245 8 Mile Rd, Kawkawlin, MI 48631, USA",0,,43.6748596,-84.0458007
+13,Bullock Creek Little League,Sports Complex,"Midland, MI, USA",0,,43.6155825,-84.2472116
+14,Saginaw Township Soccer Complex,Sports Complex,"3575 McCarty Rd, Saginaw, MI 48603, USA",0,,43.4631295,-83.9866199
+15,St. Lorenz Soccer Fields,Sports Complex,"1030 W Tuscola St, Frankenmuth, MI 48734, USA",0,,43.3301876,-83.7557264
+16,Bay Area Soccer Association,Sports Complex,"4189 Monitor Rd, Bay City, MI 48706, USA",0,,43.6182136,-83.9451392
+17,Bay County Community Center,Sports Complex,"800 John F Kennedy Dr, Bay City, MI 48706, USA",0,,43.5921063,-83.9002414
+18,Midland Civic Arena,Sports Complex,"405 Fast Ice Dr, Midland, MI 48642, USA",0,,43.6029768,-84.17615359999999
+19,Midland Soccer Complex,Sports Complex,"901 Soccer Dr, Midland, MI 48642, USA",0,,43.6566801,-84.21659919999999
+20,The Dow Event Center,Sports Complex,"303 Johnson St, Saginaw, MI 48607, USA",0,,43.4356338,-83.9352809
+21,Freeland Sportszone,Sports Complex,"5690 Midland Rd, Freeland, MI 48623, USA",60,,43.4916968,-84.096637
+22,George Olson Recreational Complex,Sports Complex,"3120 N Center Rd, Saginaw, MI 48603, USA",0,,43.4527716,-84.0143963
+23,Lansing City Arena,Arena,"904 Elmwood Rd, Lansing, MI 48917, USA",1000,,42.7433302,-84.62036119999999
+24,Wings Event Center,Arena,"3600 Vanrick Dr, Kalamazoo, MI 49001, USA",0,,42.2539823,-85.5357942
+25,Mundy Sportsplex,Sports Complex,"5431 Hill 23 Dr, Flint, MI 48507, USA",0,https://www.mundysportsplex.com/,42.946717,-83.7251436
+26,McBrook Sports Complex,Sports Complex,"14261 Torrey Rd, Fenton, MI 48430, USA",0,https://www.mcbrooksports.com/home,42.8195634,-83.7259322
+27,Clio Youth Sports Complex,Sports Complex,"1497 W Hurd Rd, Clio, MI 48420, USA",0,,43.18094070000001,-83.71284709999999
+28,Auto City Outdoor Event Center,Sports Complex,"10205 N Saginaw Rd, Clio, MI 48420, USA",0,https://www.autocityspeedway.com/,43.1545611,-83.70197859999999
+29,Berston Field House,Sports Complex,"3300 Saginaw St, Flint, MI 48505, USA",0,,43.0462003,-83.69342449999999
+30,Flint Iceland Arena,Sports Complex,"1160 Elms Rd, Flint, MI 48532, USA",0,,43.0109692,-83.81398700000001
+31,Grand Blanc Soccer Zone,Sports Complex,"3166 Tri Park Dr, Grand Blanc, MI 48439, USA",0,,42.9236282,-83.64565499999999
+32,MAAC Sports & Fitness,Sports Complex,"5338 Vienna Rd, Clio, MI 48420, USA",0,,43.1779847,-83.7868756
+33,Birch Run Speedway and Event Center,Sports Complex,"10945 Dixie Hwy, Birch Run, MI 48415, USA",0,,43.266715,-83.778159
+34,Garber Courts Tennis & Pickleball,Sports Complex,"Fordney St, Saginaw, MI 48601, USA",0,,43.4087963,-83.962366
+35,Kettering University's Atwood Stadium,Stadium,"1700 University Ave, Flint, MI 48504, USA",0,,43.0108145,-83.7167587
+36,Dort Financial Center,Sports Complex,"3501 Lapeer Rd, Flint, MI 48503, USA",4500,,43.0105747,-83.6415816
+37,Cage Sports,Sports Complex,"4110 Morrish Rd, Swartz Creek, MI 48473, USA",600,,42.9688716,-83.8318067
+38,Crystal Fieldhouse Ice Arena,Arena,"5371 Daly Farms Dr, Burton, MI 48509, USA",0,,43.0257665,-83.59908539999999
+39,Genesee Fieldhouse ,Sports Complex,"7383 Grand Pkwy, Grand Blanc, MI 48439, USA",0,,42.9183967,-83.7249983
+40,Grand Valley State University ,College/University,"1 Campus Dr, Allendale, MI 49401, USA",0,,42.9638087,-85.8883334
+41,Mt. Holiday,Other,"3100 Holiday Rd, Traverse City, MI 49686, USA",0,https://mt-holiday.com/,44.743576,-85.5144882
+42,Keystone Soccer Complex,Parks & Rec,"712 N Keystone Rd, Traverse City, MI 49696, USA",0,,44.7021649,-85.6139333
+43,Grand Traverse Resort and Spa,Golf Course,"100 Grand Traverse Village Blvd, Acme, MI 49610, USA",0,,44.778425,-85.4876644
+44,Flintfields Horse Park,Other,"6535 Bates Rd, Williamsburg, MI 49690, USA",0,,44.7804744,-85.44519509999999
+45,Holland Community Aquatic Center,Aquatic Center,"550 Maple Ave, Holland, MI 49423, USA",800,,42.7769406,-86.11617319999999
+46,Richfield County Park,Parks & Rec,"6322 N Irish Rd, Davison, MI 48423, USA",0,https://geneseecountyparks.org/explore/richfield-county-park-bmx-track/,43.0997067,-83.55796339999999
+47,Richfield Bowl,Other,"5340 Richfield Rd, Flint, MI 48506, USA",0,https://bowlflint.com/,43.0517066,-83.6034107
+48,Jack N. Abernathy Regional Park,Parks & Rec,"402 Dayton St, Davison, MI 48423, USA",0,,43.0262339,-83.5301324
+49,Creasey Bicentennial Park,Parks & Rec,"1505 E Grand Blanc Rd, Grand Blanc, MI 48439, USA",0,https://gbparks.recdesk.com/Community/Facility/Detail?facilityId=37,42.9157579,-83.6722626
+50,B's Bowling,Other,"750 S Center Rd, Flint, MI 48506, USA",0,https://bowlflint.com/,43.0198667,-83.6356058
+51,Ascension Genesys Health Club,Other,"801 Health Park Blvd, Grand Blanc, MI 48439, USA",0,https://ascensiongenesyshealthclub.com/,42.8902994,-83.63612859999999
+52,Rollaway Lanes & Lounge,Recreation Center,"317 S Main St, Davison, MI 48423, USA",0,,43.0278188,-83.5162691
+53,Williams Gun Sight,Other,"7389 Lapeer Rd, Davison, MI 48423, USA",0,,43.012792,-83.5605609
+54,Goldenrod Disc Golf Course,Golf Course,"6405 Irish Rd, Davison, MI 48423, USA",0,,42.96897389999999,-83.5544343
+55,Flushing Valley Golf Club,Golf Course,"1124 E Main St, Flushing, MI 48433, USA",0,,43.0609735,-83.8313095
+56,Extreme Indoor Kart Racing,Recreation Center,"2259 W Vienna Rd, Clio, MI 48420, USA",0,,43.1761162,-83.7237324
+57,Davison Country Club,Golf Course,"9512 E Lippincott Blvd, Davison, MI 48423, USA",0,,42.9999335,-83.51901459999999
+58,Lake Callis Recreation Complex,Parks & Rec,"1152 N Gale Rd, Davison, MI 48423, USA",0,,43.0256023,-83.53433749999999
+59,Galaxy Lanes,Recreation Center,"2226 E Hill Rd, Grand Blanc, MI 48439, USA",0,,42.9425108,-83.66393289999999
+60,Fenton Lanes Family Fun Center,Recreation Center,"3014 W Thompson Rd, Fenton, MI 48430, USA",0,,42.8639122,-83.7299582
+61,Fenton Farms Golf Club,Golf Course,"12312 Torrey Rd, Fenton, MI 48430, USA",0,,42.8488051,-83.7344742
+62,Everett A. Cummings Center,Recreation Center,"6130 E Mt Morris Rd, Mt Morris, MI 48458, USA",0,,43.1173321,-83.59268019999999
+63,Grand Rapids Community College,College/University,"143 Bostwick Ave NE, Grand Rapids, MI 49503, USA",0,https://grccraiders.com/sports/2011/2/3/Ford_Fieldhouse.aspx,42.96697289999999,-85.66676509999999
+64,Grand Blanc Lanes,Recreation Center,"5301 S Saginaw St, Flint, MI 48507, USA",0,,42.9545916,-83.65958119999999
+65,Colonial Lanes,Recreation Center,"6430 W Pierson Rd, Flushing, MI 48433, USA",0,,43.0612492,-83.8084329
+66,Riverside Park,Parks & Rec,"2001 Monroe Ave NE, Grand Rapids, MI 49505, USA",0,https://www.grandrapidsmi.gov/Directory/Places/Parks/Riverside-Park,43.01129479999999,-85.6686636
+67,Belknap Park,Parks & Rec,"30 Coldbrook St NE, Grand Rapids, MI 49503, USA",0,,42.9809589,-85.6658482
+68,Matt Urban Sports Complex,Sports Complex,"270 E 32nd St, Holland, MI 49423, USA",0,https://www.cityofholland.com/Facilities/Facility/Details/Matt-Urban-Sports-Complex-16,42.7653955,-86.0946864
+69,Martin Arena,Sports Complex,"5165 E Remus Rd, Mt Pleasant, MI 48858, USA",0,https://mpicearena.com/,43.59904160000001,-84.7439757
+70,Morey Courts,Sports Complex,"5175 E Remus Rd, Mt Pleasant, MI 48858, USA",0,https://www.moreycourts.com/,43.5987944,-84.74378229999999
+71,LMCU Ballpark ,Stadium,"4500 W River Dr NE, Comstock Park, MI 49321, USA",8000,https://lmcuballpark.com/,43.0400893,-85.6600235
+72,Midwest United FC Complex ,Stadium,"3450 36th St SE, Grand Rapids, MI 49512, USA",0,https://www.midwestunitedfc.com/home,42.89580249999999,-85.58140929999999
+73,MSA Woodland,Sports Complex,"2100 28th St SE, Grand Rapids, MI 49508, USA",0,https://michigansportsacademies.com/,42.9115316,-85.61578089999999
+74,The DeltaPlex,Arena,"2500 Turner Ave NW, Grand Rapids, MI 49544, USA",7000,https://deltaplex.com/,43.0096719,-85.6811804
+75,Patterson Ice Center,Sports Complex,"2550 Patterson Ave SE, Grand Rapids, MI 49546, USA",1038,https://www.pattersonicecenter.com/,42.9168742,-85.5475384
+76,Houseman Field,Stadium,"162 Houseman Ave NE, Grand Rapids, MI 49503, USA",8000,"https://www.google.com/maps/place/Houseman+Field+Playground/@42.9658255,-85.6479413,17.5z/data=!4m13!1m7!3m6!1s0x8819ac570ef07885:0xe52a75f3727a47a9!2sHouseman+Ave+NE,+Grand+Rapids,+MI!3b1!8m2!3d42.98",42.9654844,-85.6454942
+77,Walker Ice Arena,Arena,"4151 Remembrance Rd NW, Grand Rapids, MI 49534, USA",400,https://www.walkericeandfitness.com/,43.0057597,-85.77131039999999
+78,The Courthouse Athletic Center ,Sports Complex,"8895 Byron Commerce Dr SW, Byron Center, MI 49315, USA",0,,42.8030034,-85.67230219999999
+79,Matthaei Center,Sports Complex,"5210 Gullen Mall, Detroit, MI 48202, USA",0,,42.3579483,-83.069949
+80,Little Ceasars Arena,Arena,"2645 Woodward Ave, Detroit, MI 48201, USA",0,,42.3419612,-83.05495979999999
+81,Meijer Sports Complex ,Sports Complex,"3300 10 Mile Rd NE, Rockford, MI 49341, USA",1000,https://wmscsportscomplex.com/,43.1150994,-85.5878594
+82,GingerMan Raceway,Sports Complex,"61414 Phoenix St, South Haven, MI 49090, USA",0,https://www.gingermanraceway.com/,42.40433220000001,-86.1448899
+83,Kalamazoo Speedway,Sports Complex,"7656 Ravine Rd, Kalamazoo, MI 49009, USA",0,https://www.kalamazoospeedway.com/,42.371216,-85.6766652
+84,High Velocity Sports,Sports Complex,"46245 Michigan Ave, Canton, MI 48188, USA",0,https://www.hvsports.com/,42.2686931,-83.4945237
+85, Wideworld Sports Center,Sports Complex,"2140 Oak Valley Dr, Ann Arbor, MI 48103, USA",0,https://www.wideworld-sports.com/,42.2517778,-83.780074
+86,Tri-City Motor Speedway,Sports Complex,"85 Wheeler Rd, Auburn, MI 48611, USA",0,,43.6393619,-84.04573789999999
+87,Saginaw Bay Ice Arena,Sports Complex,"6129 Bay Rd, Saginaw, MI 48604, USA",0,,43.4963717,-83.9748602
+88,Rudy Zauel Park South Little League,Sports Complex,"4540 Augustine St, Saginaw, MI 48638, USA",0,,43.4051723,-84.0053306
+89,Redcoats Softball Complex,Sports Complex,"605 Whitman Dr, Midland, MI 48640, USA",0,,43.6072918,-84.2555362
+90,Pintown Pizza & Lanes,Sports Complex,"142 N Saginaw Rd, Midland, MI 48640, USA",0,,43.626877,-84.22755339999999
+91,North Little League Park,Sports Complex,"2760 N Center Rd, Saginaw, MI 48603, USA",0,,43.4478008,-84.0144754
+92,Woodworth Field,Sports Complex,"1200 Academy St, Kalamazoo, MI 49006, USA",0,,42.290658,-85.601255
+93,Wings West Ice Arena,Arena,"5076 Sports Dr, Kalamazoo, MI 49009, USA",0,,42.2440842,-85.67511060000001
+94,Mayors Riverfront Park - SRC Field,Sports Complex,"251 Mills St, Kalamazoo, MI 49048, USA",0,,42.2906734,-85.56326039999999
+95,Mackenzie Field,Sports Complex,"1600 W Michigan Ave, Kalamazoo, MI 49008, USA",0,,42.2861539,-85.6076269
+96,Angell Field,Sports Complex,"1200 Academy St, Kalamazoo, MI 49006, USA",0,,42.290658,-85.601255
+97,Greater Saginaw Amateur Hockey Association,Sports Complex,"6129 Bay Rd, Saginaw, MI 48604, USA",0,,43.4963717,-83.9748602
+98,Fraternal Northwest Little League Complex,Sports Complex,"7001 N Sturgeon Rd, Midland, MI 48642, USA",0,,43.66086440000001,-84.26718199999999
+99,Secchia Stadium - MSU,Sports Complex,"223 Kalamazoo St, East Lansing, MI 48824, USA",1500,,42.7308321,-84.4901931
+100,Ralph Young Field -  MSU,Sports Complex,"Michigan, USA",0,,44.3148443,-85.60236429999999
+101,Hope Sports Complex,Sports Complex,"5801 N Aurelius Rd, Lansing, MI 48911, USA",1000,,42.67302369999999,-84.5234428
+102,Lansing Soccer Zone,Sports Complex,"7101, 4900 Contec Dr, Lansing, MI 48910, USA",0,,42.6862439,-84.5291817
+103,Munn Ice Arena - MSU,Sports Complex,"509 Birch Rd, East Lansing, MI 48824, USA",6100,,42.7281675,-84.4892911
+104,McLane Stadium at Kobs Field - MSU,Sports Complex,"223 Kalamazoo St, East Lansing, MI 48824, USA",2500,,42.7308321,-84.4901931
+105,Jackson Field,Sports Complex,"505 E Michigan Ave, Lansing, MI 48912, USA",0,,42.7345814,-84.54638039999999
+106,Jenison Field House - MSU,Sports Complex,"223 Kalamazoo St, East Lansing, MI 48824, USA",0,,42.7308321,-84.4901931
+107,Lake Alliance Softball Complex,Sports Complex,"515 Alliance Dr, Potterville, MI 48876, USA",0,,42.6205084,-84.75275289999999
+108,Lansing Center,Convention Center,"333 E Michigan Ave, Lansing, MI 48933, USA",0,,42.7337472,-84.5485152
+109,Lansing City Futsal,Sports Complex,"904 Elmwood Rd, Lansing, MI 48917, USA",0,,42.7433302,-84.62036119999999
+110,Lansing Community Center,Sports Complex,"610 N Capitol Ave, Lansing, MI 48933, USA",0,,42.7402356,-84.5535572
+111,IM East,Sports Complex,"804 E Shaw Ln, East Lansing, MI 48824, USA",0,,42.7247497,-84.4687179
+112,IM West,Sports Complex,"393 Chestnut Rd, Okemos, MI 48864, USA",0,,42.72888349999999,-84.4872082
+113,Gier Park,Sports Complex,"2809 N East St, Lansing, MI 48906, USA",100,,42.76245220000001,-84.5432072
+114,Erickson Park,Sports Complex,"4220 S Canal Rd, Lansing, MI 48917, USA",0,,42.6893645,-84.6643022
+115,DeMartin Soccer Complex,Sports Complex,"261 Kalamazoo St, East Lansing, MI 48824, USA",2500,,42.7299301,-84.48960350000002
+116,Don Johnson Field House,Sports Complex,"220 N Pennsylvania Ave, Lansing, MI 48912, USA",0,,42.73548,-84.537504
+117,East Lansing Soccer Complex,Sports Complex,"3636 Coleman Rd, East Lansing, MI 48823, USA",250,,42.7726248,-84.4923103
+118,East Lansing Softball Complex,Sports Complex,"6408 Abbot Rd, East Lansing, MI 48823, USA",200,,42.767783,-84.480704
+119,Eaton Rapids Softball Complex,Sports Complex,"Howe Dr, Eaton Rapids, MI 48827, USA",0,,42.5120658,-84.6606517
+120,Silver Stick Finals Port Huron,Sports Complex,"Port Huron, MI 48060, USA",0,,42.9751872,-82.4644445
+121,McMorran Place,Convention Center,"701 McMorran Blvd, Port Huron, MI 48060, USA",0,,42.9790393,-82.4255903
+122,Court One Athletic Club - EAST,Sports Complex,"2291 Research Dr, Okemos, MI 48864, USA",0,,42.7051885,-84.4354007
+123,Michigan Meadows Golf Course,Sports Complex,"4575 County Line Rd, Casco, MI 48064, USA",0,,42.761286,-82.72950399999999
+124,Court One Athletic Club - North,Sports Complex,"1609 Lake Lansing Rd, Lansing, MI 48912, USA",0,,42.7623748,-84.5276254
+125,Capitol Quarter Midgets Race Track,Sports Complex,"16460 Old U.S. 27, Lansing, MI 48906, USA",0,,42.77736,-84.5435962
+126,Breslin Student Events Center,Sports Complex,"534 Birch Rd, East Lansing, MI 48823, USA",15000,,42.7280966,-84.4922898
+127,Beacon Soccer Field - Southwest,Sports Complex,"3500 Simken Dr, Lansing, MI 48910, USA",0,,42.6967036,-84.58106
+128,Beacon Soccer Field - Downtown,Sports Complex,"417 N Walnut St, Lansing, MI 48933, USA",0,,42.7376745,-84.5572476
+129,Blue Water Convention Center,Convention Center,"800 Harker St, Port Huron, MI 48060, USA",0,,42.9983381,-82.4272838
+130,Athletic Factory Inc.,Sports Complex,"1517 10th St, Port Huron, MI 48060, USA",0,,42.96746599999999,-82.4333798
+131,Revolution Ice Arena,Sports Complex,"75 Houston St, Battle Creek, MI 49017, USA",1000,,42.3198343,-85.1896474
+132,YMCA Sports Complex,Sports Complex,"182 Capital Ave NE, Battle Creek, MI 49017, USA",0,,42.3215216,-85.1756187
+133,Wattles Park Men's Club,Sports Complex,"144 S Wattles Rd, Battle Creek, MI 49014, USA",0,,42.3062325,-85.1146801
+134,Davenport University,College/University,"6191 Kraft Ave SE, Grand Rapids, MI 49512, USA",0,,42.8483551,-85.5300821
+135,Berlin Raceway,Other,"2060 Berlin Fair Dr, Marne, MI 49435, USA",0,https://www.berlinraceway.com/,43.0355264,-85.8351859
+136,Canepa Tennis Center,Tennis Complex,"2915 Hall St SE, Grand Rapids, MI 49506, USA",0,,42.9416237,-85.59682
+137,Grace Christian University,College/University,"1011 Aldon St SW, Grand Rapids, MI 49509, USA",0,https://gracechristian.edu/,42.9194335,-85.690033
+138,Aquinas College ,College/University,"1700 Fulton St E, Grand Rapids, MI 49503, USA",1500,https://aqsaints.com/sports/2019/6/26/aquinas-college-athletic-recreation-facilities.aspx,42.9610438,-85.62569289999999
+139,Calvin University,College/University,"3201 Burton St SE, Grand Rapids, MI 49546, USA",0,https://www.calvinknights.com/facilities/index,42.9328286,-85.58154739999999
+140,Cornerstone University,College/University,"1001 E Beltline Ave NE, Grand Rapids, MI 49525, USA",0,https://www.cugoldeneagles.com,42.9801473,-85.59209229999999
+141,Ypsilanti High School,Public (K-12) School,"2095 Packard St, Ypsilanti, MI 48197, USA",0,https://www.ycschools.us/,42.2432957,-83.645161
+142,Pioneer High School,Public (K-12) School,"601 W Stadium Blvd, Ann Arbor, MI 48103, USA",0,https://phs.wjusd.org/,42.2620543,-83.7531127
+143,Milan High School,Public (K-12) School,"200 Big Red Dr, Milan, MI 48160, USA",0,https://www.milanhigh.org/,42.0853204,-83.6824384
+144,Eastern Michigan University,College/University,"900 Oakwood St, Ypsilanti, MI 48197, USA",0,https://www.emich.edu/,42.2497637,-83.6287739
+145,Lake Cora Hills,Golf Course,"56640 Co Rd 671, Paw Paw, MI 49079, USA",0,,42.2120919,-85.9786245
+146,Airway Fun Center,Recreation Center,"5626 Portage Rd, Portage, MI 49002, USA",0,https://www.airwayfuncenter.com/,42.234904,-85.5614512
+147,Angels Crossing,Golf Course,"3600 W Ave E, Vicksburg, MI 49097, USA",0,https://golfangelscrossing.com/,42.1070861,-85.5448985
+148,Eastern Hills Golf Course,Golf Course,"4200 Lovers Ln, Kalamazoo, MI 49001, USA",0,https://kmgagolf.com/eastern_hills/,42.2484877,-85.574523
+149,Gull Lake View Golf Resort,Golf Course,"7417 N 38th St, Augusta, MI 49012, USA",0,https://www.gulllakeview.com/,42.3677632,-85.3860729
+150,Hickory Ridge Golf Course,Golf Course,"65 N 30th St, Galesburg, MI 49053, USA",0,https://golfhickoryridgemi.com/,42.291465,-85.48009499999999
+151,Kalamazoo College,College/University,"1200 Academy St, Kalamazoo, MI 49006, USA",0,https://www.kzoo.edu/,42.290658,-85.601255
+152,Lake Doster Golf Club,Golf Course,"116 Country Club Blvd, Plainwell, MI 49080, USA",0,https://www.lakedostergolf.com/,42.437054,-85.55566139999999
+153,Western Michigan University,College/University,"1903 W Michigan Ave, Kalamazoo, MI 49008, USA",0,https://wmich.edu/,42.2845248,-85.61022349999999
+154,Phyllis Ocker Field Hockey Field,College/University,"Ann Arbor, MI 48104, USA",0,https://mgoblue.com/sports/2017/6/16/facilities-ocker-field-html.aspx,42.2660881,-83.7146001
+155,Concordia University,College/University,"4090 Geddes Rd, Ann Arbor, MI 48105, USA",0,https://www.cuaa.edu/,42.2723033,-83.6800719
+156,Skyline High School,Public (K-12) School,"2552 N Maple Rd, Ann Arbor, MI 48103, USA",0,https://www.ousd.org/skyline,42.3045048,-83.77766869999999
+157,University of Michigan,College/University,"500 S State St, Ann Arbor, MI 48109, USA",0,https://umich.edu/,42.2762537,-83.7412441
+158,Bowlero Lanes Fun Center,Recreation Center,"775 W Columbia Ave, Battle Creek, MI 49015, USA",0,https://www.michigan.org/property/nottke-s-family-fun-center,42.2977788,-85.21312119999999
+159,White Birch Hills Golf Course,Golf Course,"360 Ott Rd, Bay City, MI 48706, USA",0,,43.6315659,-84.0364646
+160,Washington Lanes & Family Entertainment,Recreation Center,"1205 Washington Ave, Bay City, MI 48708, USA",0,,43.6024356,-83.8879108
+161,Valley View Farm Golf Course,Golf Course,"1435 S Thomas Rd, Saginaw, MI 48609, USA",0,,43.4018892,-84.1111171
+162,Valley Lanes Family Enterntainment Center,Recreation Center,"5021 Bay City Rd, Midland, MI 48642, USA",0,,43.6058875,-84.1657701
+163,Twin Brooks Golf Club,Golf Course,"Twin Brooks Golf Course, 1005 McKeighan Rd, Chesaning, MI 48616, USA",0,,43.1954779,-84.12982679999999
+164,Swan Valley Golf Club & Banquet Center,Golf Course,"9521 Highland Green Dr, Saginaw, MI 48609, USA",0,,43.4239101,-84.1021044
+165,STC Pro Bowl,Recreation Center,"1106 N Saginaw St, St Charles, MI 48655, USA",0,,43.3063477,-84.1422357
+166,Stardust Lanes,Recreation Center,"3750 Bay Rd, Saginaw, MI 48603, USA",0,,43.46204900000001,-83.97393009999999
+167,Spring Valley Golf Course,Golf Course,"2635 E Beaver Rd, Kawkawlin, MI 48631, USA",0,,43.6681738,-83.9442208
+168,Sovereign Field,Parks & Rec,"Woodside Ave, Bay City, MI, USA",0,,43.6063562,-83.8669971
+169,Showboat Park (and Boat Launch),Parks & Rec,"807 S Front St, Chesaning, MI 48616, USA",6300,,43.1784963,-84.11639869999999
+170,Sandy Ridge Golf Course,Golf Course,"2750 Lauria Rd, Midland, MI 48642, USA",0,,43.6617065,-84.15905339999999
+171,Saginaw Valley State University,College/University,"7400 Bay Rd, University Center, MI 48710, USA",1000,,43.5134587,-83.9611561
+172,Saginaw Valley Public Golf Course,Golf Course,"7255 3 Mile Rd, Bay City, MI 48706, USA",0,,43.5295325,-83.94987470000001
+173,Roosevelt Park,Parks & Rec,"Broadway St, Bay City, MI 48708, USA",0,,43.5727869,-83.8936732
+174,Pleasant View Golf Course,Golf Course,"3424 Barnard Rd, Saginaw, MI 48603, USA",0,,43.4567261,-83.96471079999999
+175,Northwood University,College/University,"4000 Whiting Drive, Midland, MI 48640, USA",4000,,43.6330129,-84.28035249999999
+176,Northern Lanes & Lounge,Recreation Center,"1129 Saginaw Rd, Sanford, MI 48657, USA",0,,43.6851811,-84.4134227
+177,Monitor Lanes,Recreation Center,"1700 S Euclid Ave, Bay City, MI 48706, USA",0,,43.583648,-83.91702099999999
+178,Midland Gymnastics Training Center,Gymnastics Center,"1111 E Wackerly St, Midland, MI 48642, USA",0,,43.6552354,-84.2146229
+179,Mid Michigan Gymnastics,Gymnastics Center,"5686 Midland Rd, Freeland, MI 48623, USA",0,,43.4914188,-84.0970534
+180,Maplewood Park,Parks & Rec,"N Sheridan St, Bay City, MI 48708, USA",0,,43.5971933,-83.8770351
+181,Maple Leaf Golf Course,Golf Course,"158 N Mackinaw Rd, Linwood, MI 48634, USA",0,,43.7435571,-83.98744649999999
+182,LeFevre's Family Bowl,Recreation Center,"6220 State St, Saginaw, MI 48603, USA",0,,43.4377817,-84.038963
+183,Infinity Skate Park,Parks & Rec,"209 E Hart St, Bay City, MI 48706, USA",0,,43.612922,-83.891465
+184,Kalamazoo College Athletic Fields Complex,College/University,"1600 W Michigan Ave, Kalamazoo, MI 49008, USA",0,,42.2861539,-85.6076269
+185,Hewitt Park,Parks & Rec,"19th St, Bay City, MI 48708, USA",0,,43.5827953,-83.8835534
+186,Gym-Jester Gymnastics Center,Gymnastics Center,"323 Weiss St, Saginaw, MI 48604, USA",0,,43.4433077,-83.9467172
+187,Green Acres Golf Course,Golf Course,"7323 Dixie Hwy, Bridgeport, MI 48722, USA",0,,43.329334,-83.824028
+188,Greater Midland Tennis Center,Tennis Complex,"90 E Wackerly St, Midland, MI 48640, USA",0,,43.65477569999999,-84.2268928
+189,Greater Midland and Curling Club,Recreation Center,"2009 Jefferson Ave, Midland, MI 48640, USA",0,,43.6163326,-84.2279207
+190,"Crooked Creek Golf, Bowling & Banquet Center",Golf Course,"9387 Gratiot Rd, Saginaw, MI 48609, USA",0,,43.411268,-84.099305
+191,Beech Hollow Golf Course,Golf Course,"7494 Hospital Rd, Freeland, MI 48623, USA",0,,43.515198,-84.04713890000001
+192,Bay Valley Resort & Conference Center,Golf Course,"2470 Old Bridge Rd, Bay City, MI 48706, USA",0,,43.5572105,-83.95598629999999
+193,Bay County Golf Course  ,Golf Course,"584 W Hampton Rd, Essexville, MI 48732, USA",0,,43.6202007,-83.80375049999999
+194,Bay City Rowing Club,Rowing Center,"350 W Lafayette Ave, Bay City, MI 48706, USA",0,,43.5806061,-83.90274409999999
+195,Alert Lanes,Recreation Center,"915 N Pine Rd, Essexville, MI 48732, USA",0,,43.5919631,-83.8390988
+196,Suburban Ice - East Lansing,Recreation Center,"2810 Hannah Blvd, East Lansing, MI 48823, USA",1800,,42.7201848,-84.45418529999999
+197,West Side Park,Parks & Rec,"801 Stanley St, Lansing, MI 48915, USA",700,,42.7430329,-84.580725
+198,Waverly High School,Public (K-12) School,"515 Snow Rd, Lansing, MI 48917, USA",500,,42.7279079,-84.6210127
+199,Timber Ridge Golf Club,Golf Course,"16339 Park Lake Rd, East Lansing, MI 48823, USA",0,,42.7788255,-84.4317907
+200,Spare Time Entertainment Center,Recreation Center,"3101 E Grand River Rd, Lansing, MI 48912, USA",0,,42.7426823,-84.50770059999999
+201,Royal Scot Golf and Bowl,Golf Course,"4722 W Grand River Ave, Lansing, MI 48906, USA",0,,42.7753858,-84.61602390000002
+202,Ranney Park,Parks & Rec,"3201 E Michigan Ave, Lansing, MI 48912, USA",2200,,42.737082,-84.504075
+203,Munn Field - MSU,College/University,"Michigan, USA",0,,44.3148443,-85.60236429999999
+204,MTA Homegrounds,Recreation Center,"1534 W Service Rd, Mason, MI 48854, USA",0,,42.5374138,-84.4491309
+205,MSU Outdoor Tennis Courts,Tennis Complex,"Michigan, USA",1200,,44.3148443,-85.60236429999999
+206,MSU Tennis Center,Tennis Complex,"3571 E Mt Hope Rd, East Lansing, MI 48823, USA",1200,,42.7118155,-84.4953091
+207,Michigan State University,College/University,"Michigan, USA",0,,44.3148443,-85.60236429999999
+208,Mason High School,Public (K-12) School,"1001 S Barnes St, Mason, MI 48854, USA",0,,42.570886,-84.4353129
+209,St. Clair Golf Club,Golf Course,"1714 River Rd, St Clair, MI 48079, USA",0,,42.8567539,-82.4804314
+210,St. Clair County Community College,College/University,"323 Erie St, Port Huron, MI 48060, USA",0,,42.9781738,-82.4279188
+211,YMCA of the Blue Water Area ,Recreation Center,"1525 3rd St, Port Huron, MI 48060, USA",0,,42.9680377,-82.4226267
+212,IM Circle - MSU,College/University,"308 W Circle Dr, Okemos, MI 48864, USA",0,,42.7316712,-84.4857596
+213,Holt High School,Public (K-12) School,"5885 W Holt Rd, Holt, MI 48842, USA",600,,42.6401556,-84.5796939
+214,Forest Akers Golf Course,Golf Course,"3535 Forest Rd, Lansing, MI 48910, USA",0,,42.7053769,-84.5013925
+215,Grand Ledge Country Club,Golf Course,"W St Joseph Hwy, Michigan, USA",0,,42.7265344,-84.8306413
+216,Groesback Golf Course,Golf Course,"1523 E César E. Chávez Ave, Lansing, MI 48906, USA",0,,42.749066,-84.52615089999999
+217,Demmer Shooting Sports Education & Training Center,Recreation Center,"4830 E Jolly Rd, Lansing, MI 48910, USA",0,,42.6817883,-84.4787644
+218,Eagle Eye Golf & Banquet Center,Golf Course,"Chandler Rd, Bath Twp, MI, USA",1290,,42.8117807,-84.4837106
+219,East Lansing High School,Public (K-12) School,"509 Burcham Dr, East Lansing, MI 48823, USA",0,,42.7425086,-84.478293
+220,Eldorado Golf Course & Banquet Center,Golf Course,"3750 W Howell Rd, Mason, MI 48854, USA",0,,42.597413,-84.4933348
+221,The Emerald Golf Course,Golf Course,"2300 W Maple Rapids Rd, St Johns, MI 48879, USA",0,,43.1039002,-84.5637686
+222,Solitude Links Golf Course & Banquet Center,Golf Course,"5810 Flinchbaugh Rd, Kimball, MI 48074, USA",0,,42.9787463,-82.5590758
+223,"Sanborn Park, Nature Area & Swimming Pool",Parks & Rec,"Pine Grove Ave & Sanborn St, Port Huron, MI 48060, USA",0,,41.9400678,-87.6419701
+224,College Fields Golf Club,Golf Course,"3800 Hagadorn Rd, Okemos, MI 48864, USA",0,,42.69326969999999,-84.4589831
+225,City Limits Sports Grill - East Lansing,Recreation Center,"2120 E Saginaw Hwy, East Lansing, MI 48823, USA",0,,42.766818,-84.428837
+226,City Limits Bowling Center - Mason,Recreation Center,"801 N Cedar St, Mason, MI 48854, USA",0,,42.6047849,-84.4820026
+227,Marysville Golf Course,Golf Course,"2080 River Rd, Marysville, MI 48040, USA",0,,42.8939138,-82.4756565
+228,Leaning Tree Golf Course,Golf Course,"7860 Smiths Creek Rd, Township of Wales, MI 48027, USA",0,,42.9208987,-82.6357106
+229,Lakeview Hills Golf Resort,Golf Course,"6560 Peck Rd, Lexington, MI 48450, USA",0,,43.26678159999999,-82.55793489999999
+230,Huron Shores Golf Club,Golf Course,"1441 N Lakeshore Rd, Port Sanilac, MI 48469, USA",0,,43.4725852,-82.5586955
+231,Golden Hawk Golf Course,Golf Course,"Meisner Ln, Casco, MI 48064, USA",0,,42.7497267,-82.7095929
+232,Black River Country Club ,Golf Course,"3300 Country Club Dr, Port Huron, MI 48060, USA",0,,43.0099299,-82.4689793
+233,Bird Creek Golf Club,Golf Course,"7850 N Van Dyke Rd, Port Austin, MI 48467, USA",0,,44.021484,-82.998108
+234,Belle River Golf & Country Club,Golf Course,"12564 Belle River Rd, Memphis, MI 48041, USA",0,,42.9279975,-82.8203125
+235,Albion College ,College/University,"611 E Porter St, Albion, MI 49224, USA",0,https://www.albion.edu/,42.2441274,-84.7451858
+236,Crystal Mountain,Sports Complex,"12500 Crystal Mountain Dr, Thompsonville, MI 49683, USA",0,,44.5193916,-85.9909062
+237,Centre Ice Arena,Sports Complex,"1600 Chartwell Dr, Traverse City, MI 49696, USA",0,,44.7087079,-85.5446429
+238,Hickory Hills Skiing and Disc Golf,Recreation Center,"2000 Randolph St, Traverse City, MI 49684, USA",0,,44.7681481,-85.6606
+239,Pickens Field,Parks & Rec,"309 W Pickard St, Mt Pleasant, MI 48858, USA",0,,43.6116829,-84.7820871
+240,Beal City High School,Public (K-12) School,"3117 Elias St, Mt Pleasant, MI 48858, USA",0,,43.6703228,-84.9095244
+241,A-ga-ming Golf Resort,Golf Course,"627 Ag A Ming Dr, Kewadin, MI 49648, USA",0,,45.0237998,-85.3347227
+242,KidsSports USA,Recreation Center,"6712 Financial Parkway, Kalamazoo, MI 49009, USA",0,https://www.branchgymnastics.com/,42.2436572,-85.6811439
+243,Nancy Moore Park,Parks & Rec,"1960 Gaylord C Smith Ct, East Lansing, MI 48823, USA",0,,42.7364733,-84.4208569
+244,Kimball Pines County Park,Parks & Rec,"1150 E Michigan Ave, Battle Creek, MI 49014, USA",0,,42.3093065,-85.1275149
+245,Daniel Gracie Grand Rapids,Sports Complex,"131 Division Ave S, Grand Rapids, MI 49503, USA",0,https://www.danielgraciegrandrapids.com/,42.9600062,-85.6680885
+246,Griff's Georgetown,Arena,"8500 48th Ave, Hudsonville, MI 49426, USA",0,,42.9237057,-85.9018603
+247,Maplewood Youth Complex,Sports Complex,"College Ave & E 35th St, Holland, MI 49423, USA",300,,,
+248,Quincy Little League/Soccer Complex,Sports Complex,"4260 144th Ave, Holland, MI 49424, USA",0,,42.8475042,-86.1350861
+249,Quincy Softball Park,Sports Complex,"14025 Quincy St, Holland, MI 49424, USA",0,,42.84122929999999,-86.12870099999999
+250,Helder Park,Sports Complex,"3751 104th Ave, Zeeland, MI 49464, USA",0,,42.83787,-86.03935299999999
+251,Jim Kaat Baseball Park,Sports Complex,"10660 Quincy St, Zeeland, MI 49464, USA",0,,42.84043380000001,-86.04588989999999
+252,Griff's Icehouse West,Sports Complex,"4444 Holland Ave, Holland, MI 49424, USA",0,,42.8492955,-86.0908656
+253,EXPRESSIONS in Motion Dance & Gymnastics,Sports Complex,"903 N Euclid Ave, Bay City, MI 48706, USA",0,,43.6125537,-83.9164417
+254,Foutch's Strike Zone,Sports Complex,"1483 Linden Rd, Flint, MI 48532, USA",0,,43.0034234,-83.7714989
+255,DeVos Place,Convention Center,"303 Monroe Ave NW, Grand Rapids, MI 49503, USA",0,https://www.devosplace.org/,42.9685867,-85.6733453
+256,Bullpen Sports,Sports Complex,"3801 Lapeer Rd, Flint, MI 48503, USA",0,,43.0105697,-83.6367994
+257,Vasa Pathway,Other,"4450 Bartlett Rd, Williamsburg, MI 49690, USA",0,,44.7548415,-85.49540449999999
+258,TART Trails,Other,"N Four Mile Rd, Traverse City, MI 49685, USA",0,,44.716459,-85.5363259
+259,Ranch Rudolf,Parks & Rec,"6841 Brown Bridge Rd, Traverse City, MI 49696, USA",0,,44.6578674,-85.4371141
+260,Frankfort Public Beach and Playground,Other,"Frankfort, MI 49635, USA",0,,44.6336096,-86.23453959999999
+261,Clinch Park,Parks & Rec,"111 E Grandview Pkwy, Traverse City, MI 49684, USA",0,,44.7657955,-85.6214839
+262,Boardman Lake Trail,Parks & Rec,"Hannah Ave, Traverse City, MI 49686, USA",0,,44.7550645,-85.5959334
+263,Betsie Valley Trail,Other,"7200 Crystal Ave, Beulah, MI 49617, USA",0,,44.62779159999999,-86.0957566
+264,Moran Park,Parks & Rec,"W 22nd St, Holland, MI 49423, USA",50,https://www.cityofholland.com/Facilities/Facility/Details/Joseph-Moran-Park-10,42.7774866,-86.1229234
+265,Millennium Park,Parks & Rec,"1415 Maynard Ave SW, Walker, MI 49534, USA",0,,42.9390563,-85.7449128
+266,Bouws Community Pool,Aquatic Center,"365 Fairbanks Ave, Holland, MI 49423, USA",0,,42.7837308,-86.0907462
+267,Riley Trails,Parks & Rec,"16300 Riley St, Holland, MI 49424, USA",0,,42.821576,-86.18561199999999
+268,Bam!,Recreation Center,"478 E 16th St, Holland, MI 49423, USA",0,,42.7809572,-86.08533279999999
+269,Craig's Cruisers,Recreation Center,"651 Chicago Dr, Holland, MI 49423, USA",0,,42.7986844,-86.0800632
+270,Northland Lanes,Recreation Center,"308 N River Ave, Holland, MI 49424, USA",0,,42.8070481,-86.1170796
+271,Tunnel Park,Parks & Rec,"66 Lakeshore Dr, Holland, MI 49424, USA",0,,42.79897500000001,-86.2089536
+272,Holland State Park,Parks & Rec,"2215 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.77267519999999,-86.21245479999999
+273,Pere Marquette Rail Trail,Parks & Rec,"415 W Irish St, Sanford, MI 48657, USA",0,,43.682255,-84.382357
+274,Winstrom Park,Parks & Rec,"1774 Perry St, Holland, MI 49424, USA",0,,42.7953498,-86.18170219999999
+275,Anchorage Marina,Other,"1800 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7925323,-86.1868634
+276,Adams Street Landing,Parks & Rec,"10363 Adams St, Holland, MI 49423, USA",0,,42.7842116,-86.0392567
+277,Pine Bend,Parks & Rec,"15400 Polk St, West Olive, MI 49460, USA",0,,42.9124263,-86.1676652
+278,Mundy Miracle Commons,Parks & Rec,"1286 W Hill Rd, Flint, MI 48507, USA",0,,42.94523299999999,-83.703136
+279,Grand Blanc Gymnastics,Gymnastics Center,"3166 Tri Park Dr, Grand Blanc, MI 48439, USA",0,https://www.grandblancgymnastics.com/,42.9236282,-83.64565499999999
+280,EPIC Gymnastics Center,Gymnastics Center,"3650 Miller Rd, Flint, MI 48507, USA",0,https://www.epicflipsandfun.com/,42.9856415,-83.7516958
+281,Peabody Ice Climbing Club,Other,"12326 Foley Rd, Fenton, MI 48430, USA",0,,42.7455681,-83.7125011
+282,Tri County Ninja,Fitness Center,"14283 Fenton Rd, Fenton, MI 48430, USA",0,,42.8206756,-83.7060892
+283,Insight Health & Fitness Center,Fitness Center,"4500 Saginaw St, Flint, MI 48507, USA",0,,42.9831917,-83.676239
+284,The Dive Shop,Other,"4020 Corunna Rd, Flint, MI 48532, USA",0,,43.0025139,-83.7537351
+285,Turtle Creek,Golf Course,"9044 R-Drive S, Union City, MI 49094, USA",0,,42.1160018,-85.1193686
+286,Calder Plaza ,Parks & Rec,"525 Ottawa Ave NW, Grand Rapids, MI 49503, USA",0,,42.9727191,-85.6704711
+287,Grace MacDonald Park,Sports Complex,"131 E Arbutus Lake Rd, Traverse City, MI 49696, USA",0,,44.6835347,-85.5119503
+288,Arctic Coliseum Ice Arena,Sports Complex,"501 Coliseum Dr, Chelsea, MI 48118, USA",0,https://www.arcticcoliseum.net/,42.3014112,-84.0281428
+289,Ann Arbor Ice Cube,Sports Complex,"2121 Oak Valley Dr, Ann Arbor, MI 48103, USA",0,https://www.a2ice3.com/,42.2543607,-83.77816639999999
+290,Diamonds Sports Training Academy,Sports Complex,"3470 Roger B Chaffee Memorial Blvd SE, Grand Rapids, MI 49548, USA",0,https://diamondstraining.com/,42.9011247,-85.65171060000002
+291,MSA Sports Spot,Sports Complex,"3701 32nd St SE, Kentwood, MI 49512, USA",0,https://michigansportsacademies.com/,42.906619,-85.5769957
+292,Southside Ice Arena ,Arena,"566 100th St SW, Byron Center, MI 49315, USA",0,,42.7813501,-85.6773573
+293,Kelly Family Sports Center ,Sports Complex,"Kelly Family Sports Center, 10564 Laker Village Dr, Allendale, MI 49401, USA",0,,42.96709130000001,-85.8925917
+294,The Mack Athletic Complex,Sports Complex,"4300 Marseilles St, Detroit, MI 48224, USA",0,,42.4048421,-82.9180099
+295,Midwest Athletics Basketball City,Sports Complex,"16400 Eastland St, Roseville, MI 48066, USA",0,,42.5126318,-82.95376859999999
+296,Ford Community and Performing Arts Center,Sports Complex,"15801 Michigan Ave, Dearborn, MI 48126, USA",0,,42.3139794,-83.19721849999999
+297,Ford Field,Sports Complex,"2000 Brush St, Detroit, MI 48226, USA",0,,42.339924,-83.0451995
+298,Dearborn Ice Skating Center,Sports Complex,"14900 Ford Rd, Dearborn, MI 48126, USA",0,,42.330353,-83.1891823
+299,Comerica Park,Sports Complex,"2100 Woodward Ave, Detroit, MI 48201, USA",0,,42.3391886,-83.04947829999999
+300,TCF Center,Convention Center,"Washington Blvd, Detroit, MI 48226, USA",0,,42.3314915,-83.0508081
+301,Calihan Hall,Sports Complex,"4001 W McNichols Rd, Detroit, MI 48221, USA",0,,42.4158721,-83.1386907
+302,Taylor Sportsplex,Sports Complex,"13333 Telegraph Rd, Taylor, MI 48180, USA",0,,42.2094624,-83.2661553
+303,The Corner Ballpark,Sports Complex,"1680 Michigan Ave, Detroit, MI 48216, USA",0,,42.3324871,-83.0690229
+304,Lexus Velodrome,Sports Complex,"601 Mack Ave, Detroit, MI 48201, USA",0,,42.3504489,-83.0507832
+305,Detroit Athletic Club,Arena,"241 Madison St, Detroit, MI 48226, USA",0,,42.3381171,-83.0469614
+306,Herrick Recreation Area,Sports Complex,"6320 E Herrick Rd, Clare, MI 48617, USA",0,,43.8020844,-84.7196787
+307,Island Park,Sports Complex,"331 S Main St, Mt Pleasant, MI 48858, USA",0,,43.6067871,-84.7770425
+308,McDonald Park,Sports Complex,"Mt Pleasant, MI 48858, USA",0,,43.59780749999999,-84.7675139
+309,Adventure Water Sports,Sports Complex,"141 Dunkley Ave, South Haven, MI 49090, USA",0,,42.4075943,-86.2716835
+310,Arvesta Sports Complex,Sports Complex,"06464 Arvesta Drive, South Haven, MI 49090, USA",0,,42.4030865,-86.2736407
+311,Outpost Sports,Sports Complex,"114 Dyckman Ave, South Haven, MI 49090, USA",0,,42.4075653,-86.2772952
+312,Scotts Mill County Park,Sports Complex,"3166 Tri Park Dr, Grand Blanc, MI 48439, USA",0,https://www.letsplaysoccer.com/,42.9236282,-83.64565499999999
+313,Echo Valley Winter Sports Park,Sports Complex,"8495 E H Ave, Kalamazoo, MI 49048, USA",0,https://www.echovalleyfun.com/,42.3196603,-85.4626973
+314,K-Zoo Skate Zoo Skatepark,Sports Complex,"1502 Ravine Rd, Kalamazoo, MI 49004, USA",0,https://www.skatezoo.com/,42.3075075,-85.606462
+315,Kalamazoo Community Soccer Complex,Sports Complex,"901 S Drake Rd, Kalamazoo, MI 49006, USA",0,https://www.wmysa.org/uploads/1/0/8/6/108613993/kalamazoo_field_maps.pdf,42.284464,-85.6480429
+316,Kalamazoo Curling Club,Sports Complex,"3600 Vanrick Dr, Kalamazoo, MI 49001, USA",0,https://kalamazoocurlingclub.com/,42.2539823,-85.5357942
+317,Kingdom Sports,Sports Complex,"8151 Merchant Pl, Portage, MI 49002, USA",0,https://www.kicsports.net/,42.200601,-85.54654219999999
+318,Miracle Field of Southwest Michigan,Sports Complex,"12935 US-131, Schoolcraft, MI 49087, USA",0,,42.1296838,-85.63481829999999
+319,Portage Soccer Complex,Sports Complex,"4422 Bishop Ave, Portage, MI 49002, USA",0,https://portagesoccer.com/portage-soccer-complex,42.2121622,-85.5364378
+320,S2 Ice Arena,Sports Complex,"5076 Sports Dr, Kalamazoo, MI 49009, USA",0,https://www.rinktime.com/,42.2440842,-85.67511060000001
+321,US 131 Motorsports Park,Sports Complex,"1249 12th St, Martin, MI 49070, USA",0,https://www.us131msp.com/,42.5137076,-85.6578387
+322,Versluis/Dickinson Softball Complex,Sports Complex,"1924 Douglas Ave, Kalamazoo, MI 49007, USA",0,,42.310152,-85.60280449999999
+323,Zeigler Motorsports Action Park,Sports Complex,"5001 Park Cir Dr, Kalamazoo, MI 49001, USA",0,https://zagmoto.com/,42.2518164,-85.53002169999999
+324,YMCA of Saginaw,Sports Complex,"1915 Fordney St, Saginaw, MI 48601, USA",0,,43.4110434,-83.9626948
+325,Saginaw Bay Youth Athletic Organization,Sports Complex,"901 Salzburg Ave, Bay City, MI 48706, USA",0,,43.5797979,-83.9128417
+326,Harvey Randall Wickes (West),Sports Complex,"7431 McCarty Rd, Saginaw, MI 48603, USA",0,,43.4660917,-84.0618114
+327,Harvey Randall Wickes (East),Sports Complex,"3599 Hospital Rd, Saginaw, MI 48603, USA",0,,43.4618094,-84.0526411
+328,Dow Bay Area Family Y,Sports Complex,"225 Washington Ave, Bay City, MI 48708, USA",0,,43.5920512,-83.8891925
+329,Center Courts,Sports Complex,"3320 N Center Rd, Saginaw, MI 48603, USA",0,,43.4557556,-84.01388020000002
+330,Can-Amera Park,Sports Complex,"4000 Weiss St, Saginaw, MI 48603, USA",0,,43.4418689,-83.995583
+331,Bay County Civic Arena,Sports Complex,"4231 Shrestha Dr, Bay City, MI 48706, USA",0,,43.6180047,-83.90932430000001
+332,Great Lake to Lake Trail,Sports Complex,"1213 Center St, Lansing, MI 48906, USA",0,,42.7478011,-84.5483047
+333,Mount Hope Park,Sports Complex,"7419 E Mt Hope Hwy, Grand Ledge, MI 48837, USA",0,,42.712476,-84.6930605
+334,Break'n Waves,Sports Complex,"1469 N. US 31 N, Traverse City, MI 49686, USA",0,,45.3911389,-84.9036737
+335,140 Ice Den,Sports Complex,"970 Grand Oaks Dr, Howell, MI 48843, USA",0,,42.5874366,-83.8864767
+336,High Flyers Sports Arena,Arena,"960 Victory Dr, Howell, MI 48843, USA",0,,42.5877255,-83.8947558
+337,Kensington Valley Ice House,Sports Complex,"10540 Citation Dr, Brighton, MI 48116, USA",0,,42.5194743,-83.7429889
+338,Legacy Center Sports Complex,Sports Complex,"9299 Goble Dr, Brighton, MI 48116, USA",0,,42.4678481,-83.7619697
+339,Libke Fields,Sports Complex,"2029 Van Tyle Rd, Gaylord, MI 49735, USA",0,,45.0175905,-84.6832395
+340,JC Charters,Sports Complex,"2223 S Shore Dr, Macatawa, MI 49434, USA",0,,42.7689824,-86.19926219999999
+341,Ella Mae Power Park,Sports Complex,"45175 W 10 Mile Rd, Novi, MI 48375, USA",0,,42.465423,-83.4872745
+342,Otsego County Sportsplex,Sports Complex,"1250 Gornick Ave, Gaylord, MI 49735, USA",0,,45.0122751,-84.6818832
+343,Kellogg Arena,Arena,"1 McCamly St S, Battle Creek, MI 49017, USA",0,,42.3190204,-85.1853333
+344,Marshall Athletic Fields,Sports Complex,"1113 W Michigan Ave, Marshall, MI 49068, USA",0,,42.2715928,-84.97761679999999
+345,The Rink,Sports Complex,"75 Houston St, Battle Creek, MI 49017, USA",0,,42.3198343,-85.1896474
+346,Nancy G. Held G Equestrian Center,Sports Complex,"11039 29 Mile Rd, Albion, MI 49224, USA",0,,42.2315712,-84.74204399999999
+347,Crystal Farms Equestrian,Sports Complex,"15203 C-Drive S, Marshall, MI 49068, USA",0,,42.2255156,-84.9953994
+348,Bowlero Lanes Fun Center,Sports Complex,"775 W Columbia Ave, Battle Creek, MI 49015, USA",0,,42.2977788,-85.21312119999999
+349,Battle Creek Bombers Baseball,Sports Complex,"1392 Capital Ave NE, Battle Creek, MI 49017, USA",0,,42.3395049,-85.15182539999999
+350,Battle Creek  YMCA,Sports Complex,"182 Capital Ave NE, Battle Creek, MI 49017, USA",0,,42.3215216,-85.1756187
+351,Anderson Athletic Center,Sports Complex,"1200 Academy St, Kalamazoo, MI 49006, USA",0,,42.290658,-85.601255
+352,Troy Sports Center,Sports Complex,"1819 E Big Beaver Rd, Troy, MI 48083, USA",0,,42.5653402,-83.11178269999999
+353,Suburban Ice Macomb,Sports Complex,"54755 Broughton Rd, Macomb, MI 48042, USA",0,,42.7001643,-82.921078
+354,Athletics Center O'rena,Sports Complex,"318 Meadow Brook Rd, Rochester, MI 48309, USA",0,,42.6744159,-83.2173353
+355,Ultimate Soccer Arenas,Sports Complex,"867 S Blvd E, Pontiac, MI 48341, USA",0,,42.6208994,-83.2539461
+356,Total Sports Park,Sports Complex,"65665 Powell Rd, Washington, MI 48095, USA",0,,42.778428,-83.001201
+357,Onyx Ice Arena,Sports Complex,"52999 Dequindre Rd, Rochester Hills, MI 48307, USA",0,,42.6816587,-83.0958465
+358,Oakland Yard Athletics,Sports Complex,"5328 Highland Rd, Waterford Twp, MI 48327, USA",0,,42.6623684,-83.3931273
+359,The Sports Club of West Bloomfield ,Sports Complex,"6343 Farmington Rd, West Bloomfield Township, MI 48322, USA",0,,42.5445597,-83.3786885
+360,Basketball America,Sports Complex,"257 E Clarkston Rd, Orion Charter Township, MI 48362, USA",0,,42.768273,-83.2355551
+361,Elite Sportsplex,Sports Complex,"2220 Mall Dr E, Waterford Twp, MI 48328, USA",0,,42.6488229,-83.33030579999999
+362,Evolution Sportsplex,Sports Complex,"141 S Opdyke Rd, Auburn Hills, MI 48326, USA",0,,42.6328719,-83.247757
+363, HIGH PERFORMANCE TRAINING,Sports Complex,"3180 Summers Rd, Keego Harbor, MI 48320, USA",0,,42.6013081,-83.3478267
+364,Westgate Bowl,Recreation Center,"4486 Alpine Ave NW, Comstock Park, MI 49321, USA",0,,43.0453925,-85.68933559999999
+365,Whistlestop Park ,Parks & Rec,"2120 76th St SW, Byron Center, MI 49315, USA",0,,42.8213269,-85.7169119
+366,East Kentwood ,Public (K-12) School,"6230 Kalamazoo Ave SE, Kentwood, MI 49508, USA",0,,42.8504358,-85.61983
+367,Detroit Riverfront,Parks & Rec,"600 Renaissance Center, Detroit, MI 48243, USA",0,,42.3301655,-83.0383193
+368,Bell Isle,Parks & Rec,"99 Pleasure Dr, Detroit, MI 48207, USA",0,,42.3377033,-82.9989865
+369,TPC Michigan,Golf Course,"1 Nicklaus Dr, Dearborn, MI 48120, USA",0,,42.3068588,-83.2037472
+370,Country Club of Detroit,Golf Course,"220 Country Club Dr, Grosse Pointe Farms, MI 48236, USA",0,,42.4147006,-82.8939218
+371,Detroit Golf Club,Golf Course,"17911 Hamilton Rd, Highland Park, MI 48203, USA",0,,42.42177,-83.124195
+372,Wayne State University New Basketball Facility,College/University,"42 W Warren Ave, Detroit, MI 48202, USA",0,,42.35699229999999,-83.065201
+373,Tom Adams Field,College/University,"42 W Warren Ave, Detroit, MI 48202, USA",0,,42.35699229999999,-83.065201
+374,Thunderbowl Lanes,Recreation Center,"4200 Allen Rd, Allen Park, MI 48101, USA",0,,42.2705276,-83.1985578
+375,Yuba Creek Trail,Other,"Yuba Rd, Acme Township, MI 49690, USA",0,,44.8160406,-85.4445555
+376,Whitewater Township Park,Parks & Rec,"9500 Park Rd, Williamsburg, MI 49690, USA",0,,44.8171816,-85.3900438
+377,Whaleback Natural Area,Other,"1639 N Manitou Trail, Leland, MI 49654, USA",0,,45.0059491,-85.76760159999999
+378,West End Beach,Other,"716 W Grandview Pkwy, Traverse City, MI 49684, USA",0,,44.7696482,-85.63479530000001
+379,Van's Beach,Other,"Van's Beach, 205 Cedar St, Leland, MI 49654, USA",0,,45.0222705,-85.76246619999999
+380,Upper Herring Lake Nature Preserve,Other,"M-22, Frankfort, MI 49635, USA",0,,44.6335553,-86.2307166
+381,Uncommon Adventures,Other,"6721 Grace Rd, Benzonia, MI 49616, USA",0,,44.6051626,-86.1066457
+382,Traverse Bay Parasail,Other,"1775 N U.S. 31 N, Traverse City, MI 49686, USA",0,,45.3953565,-84.8944209
+383,Trapp Farm Nature Preserve,Other,"371 N Eldridge Rd, Beulah, MI 49617, USA",0,,44.6348555,-86.0848153
+384,Tiny Bubbles Charters,Other,"15 4th St, Frankfort, MI 49635, USA",0,,44.63158560000001,-86.2398653
+385,Timbers Recreation Area,Parks & Rec,"7997-7825, Timbers Trail, Traverse City, MI 49685, USA",0,,44.7393541,-85.7412633
+386,Timberlee Hills,Recreation Center,"10484 S Timberlee Dr, Traverse City, MI 49684, USA",0,,44.8231017,-85.70692149999999
+387,Taylor Park,Parks & Rec,"9339 N Long Lake Rd, Traverse City, MI 49685, USA",0,,44.747355,-85.7637408
+388,Talon Sport Fishing Charters,Other,"292 S Zimmerman Rd, Beulah, MI 49617, USA",0,,44.627438,-86.01992159999999
+389,Suttons Bay Beach,Other,"416 Front St, Suttons Bay, MI 49682, USA",0,,44.9777183,-85.6490086
+390,Storm Hawk Sport Fishing,Other,"Parking on West side of, 12935 S W Bay Shore Dr, Traverse City, MI 49684, USA",0,,44.87616,-85.6494512
+391,Silver Lake Recreation Area,Other,"1785 N East Silver Lake Rd, Traverse City, MI 49685, USA",0,,44.71407440000001,-85.6807271
+392,Showtime Xtreme Fishing Charters,Aquatic Center,"Parking on West side of, 12935 S W Bay Shore Dr, Traverse City, MI 49684, USA",0,,44.87616,-85.6494512
+393,Sedge Meadow & Woodland Trails,Other,"6500 Alden Hwy, Bellaire, MI 49615, USA",0,,44.9038845,-85.22110719999999
+394,Scuba North,Aquatic Center,"833 S Garfield Ave, Traverse City, MI 49686, USA",0,,44.75232,-85.59429399999999
+395,Sayler Park,Parks & Rec,"Yuba Park Rd, Acme Township, MI 49690, USA",0,,44.8258701,-85.4592323
+396,Sand Lakes Quiet Area,Other,"Broomhead Rd, Williamsburg, MI 49690, USA",0,,44.7277778,-85.3736899
+397,Railroad Point Natural Area,Parks & Rec,"3860 N Long Lake Rd, Traverse City, MI 49684, USA",0,,44.7569623,-85.6527467
+398,Pyatt Lake Nature Preserve,Parks & Rec,"Peninsula Dr, Traverse City, MI 49686, USA",0,,44.7734616,-85.5912256
+399,Pirate's Cove Adventure Park,Parks & Rec,"1710 US-31, Traverse City, MI 49686, USA",0,,44.7451249,-85.5420085
+400,Penfold Park,Parks & Rec,"1098 Lakeside Blvd, Elberta, MI 49628, USA",0,,44.6220978,-86.2392033
+401,Palmer Woods Forest Reserve,Other,"6096 S Wheeler Rd, Maple City, MI 49664, USA",0,,44.8917644,-85.91459619999999
+402,Palizzari Natural Area,Parks & Rec,"6852 Center Rd, Traverse City, MI 49686, USA",0,,44.7863498,-85.5669992
+403,Paddle TC,Aquatic Center,"199 E Grandview Pkwy, Traverse City, MI 49684, USA",0,,44.7661319,-85.620008
+404,Portman Nature Preserve,Other,"49th Ave, Paw Paw Township, MI 49079, USA",0,,42.2406363,-85.9036434
+405,Porter Legacy Dunes,Other,"18th Ave, South Haven Charter Twp, MI 49090, USA",0,,42.3526602,-86.2957186
+406,Oak Street Beach,Other,"375 N Shore Dr, South Haven, MI 49090, USA",0,,42.4122895,-86.27621169999999
+407,Michigan Horse Trails,Other,"546 Phoenix St, South Haven, MI 49090, USA",0,,42.4029224,-86.2719214
+408,Maykin Baykin Charters,Other,"300 Oak St, South Haven, MI 49090, USA",0,,42.4121222,-86.2693831
+409,Lured Inn Charters,Other,"300 Oak St, South Haven, MI 49090, USA",0,,42.4121222,-86.2693831
+410,Lawton Golf Club - Pin High Golf Course,Golf Course,"1020 N Main St, Lawton, MI 49065, USA",0,,42.1775461,-85.85144679999999
+411,IT-IL-DO Charter,Other,"345 Water St, South Haven, MI 49090, USA",0,,42.4031229,-86.27810819999999
+412,HookUp Sportfishing Charters,Other,"300 Oak Street Slip #80, South Haven, MI 49090, USA",0,,,
+413,Hood Outdoors,Other,"07078 73.50 St, South Haven, MI 49090, USA",0,,42.3922082,-86.25514249999999
+414,Spectrum  Lanes ,Recreation Center,"5656 Clyde Park Ave SW, Wyoming, MI 49509, USA",0,,42.8610488,-85.6825831
+415,Jenison High School,Public (K-12) School,"2140 Bauer Rd, Jenison, MI 49428, USA",0,,42.9202671,-85.8369146
+416,UM Canham Natatorium,College/University,"500 E Hoover Ave, Ann Arbor, MI 48104, USA",0,,42.2694901,-83.7433517
+417,U-M Varsity Tennis Center,College/University,"2250 S State St, Ann Arbor, MI 48104, USA",0,,42.2533856,-83.74332079999999
+418,EMU Oestrike Stadium,College/University,"2051 Huron River Dr, Ypsilanti, MI 48197, USA",0,,42.2572039,-83.6487662
+419,EMU Bowen Fieldhouse,College/University,"W Circle Dr, Ypsilanti, MI 48197, USA",0,,42.2482263,-83.6268257
+420,Wall Park,Parks & Rec,"7185 Platt Rd, Ypsilanti, MI 48197, USA",0,,42.1808096,-83.6973301
+421,Sharon Mills County Park,Parks & Rec,"5701 Sharon Hollow Rd, Manchester, MI 48158, USA",0,https://www.washtenaw.org/669/Sharon-Mills-County-Park,42.1771563,-84.0927463
+422,Sandra Richardson Park,Parks & Rec,"9495 Platt Rd, Milan, MI 48160, USA",0,,42.1502564,-83.6963689
+423,Saline High School,Public (K-12) School,"1300 Campus Pkwy, Saline, MI 48176, USA",0,https://www.salineschools.org/schools/saline-high-school/,42.1878464,-83.74938039999999
+424,Pinckney Recreational Area,Parks & Rec,"8555 Silver Hill Rd, Pinckney, MI 48169, USA",0,,42.4119779,-83.96559970000001
+425,Montbeller Park,Parks & Rec,"4305 Ellsworth Rd, Ypsilanti, MI 48197, USA",0,,42.2331225,-83.6734049
+426,Manchester High School,Public (K-12) School,"20500 Dutch Dr, Manchester, MI 48158, USA",0,,42.15894249999999,-84.035742
+427,Lilie Park South,Parks & Rec,"4365 Platt Rd, Ann Arbor, MI 48108, USA",0,,42.2238944,-83.6978886
+428,Kirk Park,Parks & Rec,"2001-2081 Clinton St, Manchester, MI 48158, USA",0,,42.1469342,-84.0376106
+429,Hudson Mills Metropark,Parks & Rec,"8801 N Territorial Rd, Dexter, MI 48130, USA",0,,42.3867238,-83.9085707
+430,Dexter High School,Public (K-12) School,"2200 N Parker Rd, Dexter, MI 48130, USA",0,,42.3218886,-83.8956664
+431,Border to Border Trail (B2B),Other,"8801 N Territorial Rd, Dexter, MI 48130, USA",0,,42.3867238,-83.9085707
+432,Central Michigan University,College/University,"1200 S Franklin St, Mt Pleasant, MI 48859, USA",0,,43.5906302,-84.7756162
+433,Mt. Pleasant High School,Public (K-12) School,"1155 S Elizabeth St, Mt Pleasant, MI 48858, USA",0,,43.5914559,-84.76093329999999
+434,Sacred Heart Academy,Public (K-12) School,"316 E Michigan St, Mt Pleasant, MI 48858, USA",0,,43.6032303,-84.7745559
+435,Coldwater Lake Family Park,Parks & Rec,"1703 N Littlefield Rd, Weidman, MI 48893, USA",0,,43.6640983,-84.94954369999999
+436,Deerfield Nature Park,Parks & Rec,"2425 W Remus Rd, Mt Pleasant, MI 48858, USA",0,,43.5974028,-84.8955946
+437,Horizon Park ,Parks & Rec,"1535 Sweeney St, Mt Pleasant, MI 48858, USA",0,,43.5885042,-84.7511512
+438,Jameson Park,Parks & Rec,"5142 Budd St, Mt Pleasant, MI 48858, USA",0,,43.59780749999999,-84.7675139
+439,Pickens Field,Parks & Rec,"309 W. Pickard Avenue, Mt Pleasant, MI 48858, USA",0,,43.6116829,-84.7820871
+440,Sunnyside Park,Parks & Rec,"1511 Elm St, Mt Pleasant, MI 48858, USA",0,,43.6079803,-84.7940173
+441,Bangor-South Haven Heritage Water Trail,Parks & Rec,"546 Phoenix St, South Haven, MI 49090, USA",0,,42.4029224,-86.2719214
+442,Beeches Golf Club,Golf Course,"09601 68th St, South Haven, MI 49090, USA",0,,42.3821121,-86.205693
+443,Black River Park and Boat Launch,Parks & Rec,"132 Dunkley Ave, South Haven, MI 49090, USA",0,,42.4082363,-86.272556
+444,Black River Preserve,Parks & Rec,"69401-69499 8th Ave, South Haven, MI 49090, USA",0,,42.38933249999999,-86.2170931
+445,Casco Township Nature Preserve,Parks & Rec,"770 Blue Star Memorial Hwy, South Haven, MI 49090, USA",0,,42.4759542,-86.24678879999999
+446,Cheshire Hills Golf Course,Golf Course,"3829 102nd Ave, Allegan, MI 49010, USA",0,,42.4367756,-85.917677
+447,HawksHead Links,Golf Course,"523 Hawks Nest Dr, South Haven, MI 49090, USA",0,,42.4562537,-86.22382970000001
+448,Heritage Glen Golf Club,Golf Course,"29795 Heritage Ln, Paw Paw, MI 49079, USA",0,,42.2557584,-85.83710579999999
+449,Kal-Haven Trail Head,Other,"Parking lot, Kal-Haven Trail Sesquicentennial State Park, South Haven, MI 49090, USA",0,,42.41163330000001,-86.26260030000002
+450,KJC ATV Rentals & Trails of South Haven,Other,"24835 68th St, South Haven, MI 49090, USA",0,,42.3287076,-86.204612
+451,Newcome Beach,Other,"725 N Shore Dr, South Haven, MI 49090, USA",0,,42.4176753,-86.2729542
+452,Optimist Tot Lot,Parks & Rec,"191 Bailey Ave, South Haven, MI 49090, USA",0,,42.40766199999999,-86.2619936
+453,Packard Park & Beach,Other,"231 N Shore Dr, South Haven, MI 49090, USA",0,,42.4095072,-86.2780719
+454,Paw Paw River Water Trail,Other,"N Kalamazoo St, Paw Paw, MI 49079, USA",0,,42.2228426,-85.8902268
+455,Pilgrim Haven Natural Area,Other,"South Haven, MI 49090, USA",0,,42.4030865,-86.2736407
+456,Rampage Fishing Charters,Other,"8 Bailey Ave, South Haven, MI 49090, USA",0,,42.4133351,-86.2659918
+457,Rodz 'n' Reelz,Other,"40 Bailey Ave #6, South Haven, MI 49090, USA",0,,,
+458,Ross Coastal Plain Marsh Preserve,Parks & Rec,"I-196, Covert, MI 49043, USA",0,,42.2864875,-86.3183052
+459,Sarett Nature Center,Parks & Rec,"2300 N Benton Center Rd, Benton Harbor, MI 49022, USA",0,,42.1568385,-86.38015899999999
+460,Shamrock Hills,Golf Course,"31071 Co Rd 390, Gobles, MI 49055, USA",0,,42.40093210000001,-85.85378879999999
+461,South Haven Fishing Charters,Other,"519 Williams St, South Haven, MI 49090, USA",0,,42.4052237,-86.2732451
+462,South Haven Skate Park,Recreation Center,"901 E Wells St, South Haven, MI 49090, USA",0,,42.4109435,-86.26350269999999
+463,South Haven Yacht Club,Recreation Center,"401 Williams St, South Haven, MI 49090, USA",0,,42.4043341,-86.2758279
+464,Stanley Johnston Park,Parks & Rec,"South Haven, MI 49090, USA",0,,42.4030865,-86.2736407
+465,Strong Performance Charters,Other,"300 Oak St, South Haven, MI 49090, USA",0,,42.4121222,-86.2693831
+466,Tie One on Charters,Other,"15 72nd St, South Haven, MI 49090, USA",0,,42.4225564,-86.2456492
+467,Van Buren State Park,Parks & Rec,"23960 Ruggles Rd, South Haven, MI 49090, USA",0,,42.3343436,-86.3060476
+468,"Wau-Ke-Na, William Erby Smith Preserve",Parks & Rec,"1599 Lakeshore Dr, Fennville, MI 49408, USA",0,,42.5302672,-86.2276617
+469,Wild West Ranch LLC,Recreation Center,"2855 36th St, Allegan, MI 49010, USA",0,,42.627296,-85.89766569999999
+470,Deerlick Creek Park,Parks & Rec,"76773 13th Ave, South Haven, MI 49090, USA",0,,42.37244580000001,-86.2911524
+471,Code Seeker Charters,Other,"300 Oak St, South Haven, MI 49090, USA",0,,42.4121222,-86.2693831
+472,Dyckman Beach,Other,"175 N Shore Dr, South Haven, MI 49090, USA",0,,42.4080627,-86.2787891
+473,Elkenburg Park,Parks & Rec,"309 Elkenburg St, South Haven, MI 49090, USA",0,,42.3926256,-86.27704709999999
+474,North Beach,Other,"45 Lakeshore Dr, South Haven, MI 49090, USA",0,,42.4055841,-86.28126069999999
+475,Simpsarosa Stables,Recreation Center,"181 55th St, Grand Junction, MI 49056, USA",0,,42.4314183,-86.0777044
+476,South Beach,Recreation Center,"South Beach, 60 Water St, South Haven, MI 49090, USA",0,,42.4012874,-86.28302529999999
+477,Stoke Riders,Other,"Lakeshore Dr, South Haven, MI 49090, USA",0,,42.4040871,-86.2820623
+478,Woodman Beach,Recreation Center,"97 N Shore Dr, South Haven, MI 49090, USA",0,,42.4062203,-86.2790705
+479,bent9 Hot Yoga,Fitness Center,"825 S Westnedge Ave, Kalamazoo, MI 49008, USA",0,https://www.bent9hotyoga.com/,42.2832242,-85.58943219999999
+480,Bittersweet Ski Resort,Recreation Center,"600 River Rd, Otsego, MI 49078, USA",0,https://www.skibittersweet.com/,42.4671003,-85.7584363
+481,Climb Kalamazoo,Recreation Center,"136 S Kalamazoo Mall, Kalamazoo, MI 49007, USA",0,https://www.climbkalamazoo.org/,42.2909903,-85.5833218
+482,Continental Lanes,Recreation Center,"3645 Vanrick Dr, Kalamazoo, MI 49001, USA",0,https://www.continentallaneskazoo.com/,42.2537973,-85.53268109999999
+483,Down Dog Yoga Center,Recreation Center,"316 S Kalamazoo Mall, Kalamazoo, MI 49007, USA",0,https://downdogyogacenter.com/#home,42.2894961,-85.5835594
+484,Eastland Bowl Kalamazoo,Recreation Center,"5570 Gull Rd, Kalamazoo, MI 49048, USA",0,https://eastlandbowl.co/,42.3221519,-85.5202717
+485,Indian Run Golf Club,Golf Course,"6359 Rs Ave E, Scotts, MI 49088, USA",0,https://www.indianrungolfclub.com/,42.1796418,-85.5038928
+486,Island Hills Golf Course,Golf Course,"61809 Stonegate Dr, Centreville, MI 49032, USA",0,https://islandhillsgolf.com/,41.9003303,-85.50358600000001
+487,Kal-Haven Trail,Other,"325 W James St, Lawrence, MI 49064, USA",0,,42.2177099,-86.0552307
+488,Kalamazoo Athletic Club,Fitness Center,"100 W Michigan Ave, Kalamazoo, MI 49007, USA",0,https://www.kalamazooathleticclub.com/,42.2922748,-85.5838809
+489,Kalamazoo Elite Gymnastics Academy,Recreation Center,"616 E Vine St, Kalamazoo, MI 49001, USA",0,https://www.kzelitegymnastics.com/,42.2834326,-85.5757623
+490,Kalamazoo Valley Community College,College/University,"6767 W O Ave, Kalamazoo, MI 49009, USA",0,https://www.kvcc.edu/,42.2272007,-85.6807872
+491,Milham Park Golf Course,Golf Course,"4200 Lovers Ln, Kalamazoo, MI 49001, USA",0,https://kmgagolf.com/milham_park/,42.2484877,-85.574523
+492,Olde Mill Golf Club,Golf Course,"6101 W X Y Ave, Schoolcraft, MI 49087, USA",0,https://www.oldemillgolf.com/,42.0891717,-85.66710619999999
+493,Red Arrow Golf Course,Golf Course,"1041 King Hwy, Kalamazoo, MI 49048, USA",0,https://kmgagolf.com/red_arrow/,42.2912468,-85.5679138
+494,Ridgeview Golf Course,Golf Course,"10360 W Main St, Kalamazoo, MI 49009, USA",0,https://ridgeviewgolf.com/,42.2960808,-85.752585
+495,Roller World Skating Rink,Recreation Center,"7491 Stadium Dr, Kalamazoo, MI 49009, USA",0,,42.2546496,-85.69636969999999
+496,South Westnedge Park,Parks & Rec,"9010 S Westnedge Ave, Portage, MI 49002, USA",0,,42.1845182,-85.59400740000001
+497,States Golf Club,Golf Course,"20 W Ave E, Vicksburg, MI 49097, USA",0,https://statesgolfcourse.com/,42.11588039999999,-85.58822110000001
+498,Swiss Valley Ski Lodge,Recreation Center,"13421 Mann Rd, Jones, MI 49061, USA",0,,41.9541101,-85.8272257
+499,The Ice Rink at Millenium Park,Parks & Rec,"13421 Mann Rd, Jones, MI 49061, USA",0,https://skiswissvalley.com/,41.9541101,-85.8272257
+500,The Moors Golf Club,Golf Course,"7877 Moorsbridge Rd, Portage, MI 49024, USA",0,https://moorsgolf.com/,42.2038223,-85.632848
+501,The Prairies Golf Club,Golf Course,"5303 W Main St, Kalamazoo, MI 49009, USA",0,https://www.prairiesgolf.com/,42.2937762,-85.65270919999999
+502,Timber Ridge Ski Area,Other,"07500 23 1/2 St, Gobles, MI 49055, USA",0,https://www.timberridgeski.com/,42.3914272,-85.7810006
+503,Ty's Ski Academy,Aquatic Center,"26940 Co Rd 354, Lawton, MI 49065, USA",0,https://www.tysskiacademy.com/#/,42.1458436,-85.8135447
+504,Vicksburg Recreation Area,Parks & Rec,"S Sprinkle Rd, Vicksburg, MI, USA",0,,42.1391594,-85.5247327
+505,Rolling Hills County Park,Parks & Rec,"7660 Stony Creek Rd, Ypsilanti, MI 48197, USA",0,,42.1761646,-83.6487039
+506,U-M Lacrosse Field,College/University,"2500 S State St, Ann Arbor, MI 48104, USA",0,,42.2512905,-83.7414951
+507,Lincoln High School & Middle School,Public (K-12) School,"7425 Willis Rd, Ypsilanti, MI 48197, USA",0,https://lhs.lps.org/,42.1585468,-83.611395
+508,Vern R. Campbell Park,Parks & Rec,"13225 Sanford Rd, Milan, MI 48160, USA",0,,42.09405659999999,-83.66077519999999
+509,Central Park,Parks & Rec,"515 E Collins St, Midland, MI 48640, USA",0,,43.6183332,-84.2310419
+510,Zilwaukee Memorial Park,Parks & Rec,"610 Jones St, Saginaw, MI 48604, USA",0,,43.4830619,-83.92392090000001
+511,Wenonah Park,Parks & Rec,"800 N Water St, Bay City, MI 48708, USA",0,,43.5982588,-83.8899077
+512,Veterans Memorial Park/Boat Launch - Bay City,Parks & Rec,"301 John F Kennedy Dr, Bay City, MI 48706, USA",0,,43.5999908,-83.89721329999999
+513,Tittabawassee Township Park,Parks & Rec,"9200 Midland Rd, Freeland, MI 48623, USA",0,,43.5416764,-84.1421945
+514,Thomas Township Parks & Recreation,Parks & Rec,"249 N Miller Rd, Saginaw, MI 48609, USA",0,,43.4176955,-84.07171699999999
+515,Taymouth Township Park,Parks & Rec,"2360 E Burt Rd, Burt, MI 48417, USA",0,,43.2356314,-83.9067171
+516,Swan Creek Township Park,Parks & Rec,"11415 Lakefield Rd, St Charles, MI 48655, USA",0,,43.3508587,-84.139185
+517,Sunrise Optimist Park,Parks & Rec,"821 Waldo Ave, Midland, MI 48642, USA",0,,43.6459842,-84.1879902
+518,Stratford Woods Park,Parks & Rec,"3922 E Ashman St, Midland, MI 48642, USA",0,,43.6265824,-84.18017569999999
+519,Saginaw Valley Rail Trail,Parks & Rec,"401 E Water St, St Charles, MI 48655, USA",0,,43.2996454,-84.1380392
+520,Saginaw Gun Club,Recreation Center,"9540 Gratiot Rd, Saginaw, MI 48609, USA",0,,43.418253,-84.102896
+521,The Roll Arena,Recreation Center,"2909 Bay City Rd, Midland, MI 48642, USA",0,,43.6057965,-84.1918903
+522,Roethke Park,Parks & Rec,"400 Leddy Rd, Saginaw, MI 48609, USA",0,,43.4131158,-84.1024604
+523,Roberts Park,Parks & Rec,"455 S Miller Rd, Saginaw, MI 48609, USA",0,,43.4126852,-84.0705275
+524,Riverwalk/Railtrail Loop,Parks & Rec,"Bay City, MI, USA",0,,43.5944677,-83.8888647
+525,Ringwood Forest,Parks & Rec,"Ring Rd, Michigan, USA",0,,44.3148443,-85.60236429999999
+526,Plymouth Park,Parks & Rec,"1508 E Wheeler St, Midland, MI 48642, USA",0,,43.6386335,-84.2099288
+527,Pine Haven Recreational Area,Parks & Rec,"415 W Irish St, Sanford, MI 48657, USA",0,,43.682255,-84.382357
+528,Imerman Memorial Park,Parks & Rec,"3495 Midland Rd, Saginaw, MI 48603, USA",0,,43.455666,-84.079623
+529,Verslius Dickinson Park,Parks & Rec,"1924 Douglas Ave, Kalamazoo, MI 49007, USA",0,,42.310152,-85.60280449999999
+530,River Oaks County Park,Parks & Rec,"9202 E Michigan Ave, Galesburg, MI 49053, USA",0,,42.2882808,-85.4496758
+531,Hoyt Park,Parks & Rec,"1574 S Washington Ave, Saginaw, MI 48601, USA",0,,43.4145751,-83.9501382
+532,Heritage Park - Frankenmuth,Parks & Rec,"601 Weiss St, Frankenmuth, MI 48734, USA",0,,43.3289274,-83.7340669
+533,Herbert Steih Park,Parks & Rec,"Monitor Rd, Kawkawlin, MI, USA",0,,43.644768,-83.9461375
+534,Greater Midland Community Center,Recreation Center,"2205 Jefferson Ave, Midland, MI 48640, USA",0,,43.61759199999999,-84.228015
+535,Great Lakes Bay Regional Trail,Parks & Rec,"Saginaw, MI, USA",0,,43.4194699,-83.9508068
+536,Defoe Park,Parks & Rec,"Marquette Ave, Bay City, MI 48706, USA",0,,43.6144246,-83.8816864
+537,Chippewassee Park,Parks & Rec,"Golfside Dr, Midland, MI 48640, USA",0,,43.6150139,-84.2516671
+538,Candelite Sports & Banquet Center,Recreation Center,"6817 Dixie Hwy, Bridgeport, MI 48722, USA",0,,43.3413684,-83.84340739999999
+539,Buena Vista Lions Park,Parks & Rec,"1942 S Outer Dr, Saginaw, MI 48601, USA",0,,43.4079869,-83.89635609999999
+540,Birch Run Township Park,Parks & Rec,"13175 Maple Rd, Birch Run, MI 48415, USA",0,,43.2331412,-83.7940064
+541,Bay County Fairgrounds,Recreation Center,"810 Livingston St, Bay City, MI 48708, USA",0,,43.59818019999999,-83.8538876
+542,Bay City State Park,Parks & Rec,"3582 State Park Dr, Bay City, MI 48706, USA",0,,43.6678214,-83.90458579999999
+543,Auburn Shooting Range,Recreation Center,"Lagoon Ln, Williams Charter Township, MI 48611, USA",0,,43.6358419,-84.0666378
+544,Auburn City Park,Parks & Rec,"435 S Auburn Rd, Auburn, MI 48611, USA",0,,43.5974991,-84.06407630000001
+545,Sleepy Hollow State Park,Parks & Rec,"7832 E Price Rd, Laingsburg, MI 48848, USA",0,,42.9250602,-84.4083939
+546,Sharp Park,Parks & Rec,"Elmwood Dr, Lansing, MI 48917, USA",300,,42.7368643,-84.6217385
+547,Okemos High School,Public (K-12) School,"2800 Jolly Rd, Okemos, MI 48864, USA",0,,42.6846235,-84.4558256
+548,The Ledges in Grand Ledge and Fitzgerald Park,Parks & Rec,"133 Fitzgerald Park Dr, Grand Ledge, MI 48837, USA",0,,42.75738399999999,-84.7624699
+549,Lincoln Park,Parks & Rec,"620 W Shepherd St, Charlotte, MI 48813, USA",0,,42.5536315,-84.8443956
+550,Woodsong County Park,Parks & Rec,"3494 Abbottsford Rd, North Street, MI 48049, USA",0,,43.006879,-82.5731663
+551,Willow Ridge Golf Club,Golf Course,"3311 N River Rd, Fort Gratiot Twp, MI 48059, USA",0,,43.012707,-82.4706006
+552,Wadhams to Avoca Trail,Parks & Rec,"Wadhams to Avoca Trail, Michigan, USA",0,,43.0049315,-82.5974857
+553,Viking Fitness Center Port Huron,Fitness Center,"2422 Lapeer Rd, Port Huron, MI 48060, USA",0,,42.9774355,-82.45386540000001
+554,Viking Fitness Center Marysville,Fitness Center,"782 Huron Blvd, Marysville, MI 48040, USA",0,,42.9137415,-82.4879923
+555,Stephen M. Polovich Memorial Nature Sanctuary,Parks & Rec,"Cribbins Rd, Clyde Township, MI, USA",0,,43.0378792,-82.6345181
+556,Zebra Lounge & Lanes,Recreation Center,"522 Quay St, Port Huron, MI 48060, USA",0,,42.9762969,-82.4252516
+557,High Caliber Karting and Entertainment,Recreation Center,"1982 W Grand River Rd, Okemos, MI 48864, USA",0,,42.7253553,-84.4195644
+558,Frances Park,Parks & Rec,"2701 Moores River Dr, Lansing, MI 48911, USA",0,,42.7161105,-84.5907663
+559,Grand Woods Park,Parks & Rec,"4500 W Willow Hwy, Lansing, MI 48917, USA",180,,42.757639,-84.609973
+560,Granger Meadows Park/Valley Farms Park,Parks & Rec,"1275 Granger Meadows Ln, Lansing, MI 48906, USA",0,,42.783654,-84.5281633
+561,Great Lakes Christian College,College/University,"6211 W Willow Hwy, Lansing, MI 48917, USA",0,,42.754214,-84.6382659
+562,Hartrick Park,Parks & Rec,"3685 Hulett Rd, Okemos, MI 48864, USA",0,,42.6893201,-84.4558966
+563,Sawmill City,Recreation Center,"5055 Lapeer Rd, Smiths Creek, MI 48074, USA",0,,42.9833974,-82.5274513
+564,Sandy Dunes Adventure Golf & Dairy Bar,Golf Course,"2755 Port Austin Rd, Port Austin, MI 48467, USA",0,,43.9986526,-83.09294249999999
+565,Riverside Sports Academy,Fitness Center,"Dove Rd, Port Huron, MI, USA",0,,42.9489382,-82.5346784
+566,Putt'in 4 Paws Adventure Golf & Driving Range,Golf Course,"6010 Lakeshore Rd, Lexington, MI 48450, USA",0,,43.251492,-82.5306535
+567,Port Huron Yoga,Recreation Center,"2333 Gratiot Ave, Port Huron, MI 48060, USA",0,,43.0001038,-82.427432
+568,Port Crescent State Park Day Use Area,Parks & Rec,"1775 Port Austin Rd, Port Austin, MI 48467, USA",0,,44.0104087,-83.0503489
+569,Port Austin Outdoor Adventure,Parks & Rec,"119 E Spring St, Port Austin, MI 48467, USA",0,,44.0466139,-82.9911518
+570,Pine Shores Golf Course,Golf Course,"515 Fred W Moore Hwy, St Clair, MI 48079, USA",0,,42.8154481,-82.4935496
+571,Pine River Nature Center,Parks & Rec,"2585 Castor Rd, Goodells, MI 48027, USA",0,,42.9783915,-82.6460865
+572,Marysville Beach & Living Shoreline Promenade,Parks & Rec,"1660 River Rd, Marysville, MI 48040, USA",0,,42.9039086,-82.46971219999999
+573,William M. Burchfield Park/Riverbend Nature Area,Parks & Rec,"881 Grovenburg Rd, Holt, MI 48842, USA",0,,42.6069058,-84.58771829999999
+574,Krafft Road Driving Range,Golf Course,"4636 Krafft Rd, North Street, MI 48049, USA",0,,43.0233078,-82.52071320000002
+575,Huron County Nature Center & Wilderness Arboretum,Parks & Rec,"3336 Loosemore Rd, Port Austin, MI 48467, USA",0,,43.9936049,-83.1200566
+576,Harbor View Trail,Parks & Rec,"Harbor Beach, MI 48441, USA",0,,43.8447369,-82.6513186
+577,Greig Park ,Parks & Rec,"Carney Dr, St Clair, MI 48079, USA",0,,42.8306061,-82.5026992
+578,Fort Gratiot County Park,Parks & Rec,"3325 Metcalf Rd, Fort Gratiot Twp, MI 48059, USA",0,,43.0825614,-82.4718911
+579,Fort Gratiot Bike Path & Nature Preserve,Parks & Rec,"3720 Keewahdin Rd, Fort Gratiot Twp, MI 48059, USA",0,,43.0393944,-82.484794
+580,Fit 4 Women,Fitness Center,"2887 Krafft Rd, Port Huron, MI 48060, USA",0,,43.0246676,-82.4531883
+581,East China Township Park,Parks & Rec,"701 Recor Rd, East China, MI 48054, USA",0,,42.7574069,-82.4874588
+582,Cutting Edge Health & Fitness,Fitness Center,"Pine Grove Ave, Port Huron, MI, USA",0,,43.0077593,-82.4439255
+583,Columbus County Park,Parks & Rec,"1670 Bauman Rd, Columbus, MI 48063, USA",0,,42.8514567,-82.7058744
+584,Backus Nature Trail,Parks & Rec,"Harbor Beach, MI 48441, USA",0,,43.8447369,-82.6513186
+585,Anytime Fitness,Fitness Center,"1099 St Clair River Dr, Algonac, MI 48001, USA",0,,42.6189359,-82.53256569999999
+586,Alice W. Moore Woods Nature Sanctuary Trail,Parks & Rec,"999 Stratford Rd, St Clair, MI 48079, USA",0,,42.8366456,-82.48291669999999
+587,Algonac State Park Hiking Trail,Parks & Rec,"Michigan, USA",0,,44.3148443,-85.60236429999999
+588,Algonac Prairie & Oak Savanna Trail,Parks & Rec,"Michigan, USA",0,,44.3148443,-85.60236429999999
+589,Afterburn Fitness Club,Fitness Center,"206 Huron Ave, Port Huron, MI 48060, USA",0,,42.9763351,-82.4238333
+590,Dunes Golf Club,Golf Course,"6489 W Empire Hwy, Empire, MI 49630, USA",0,,44.80744060000001,-85.9874167
+591,Pinecroft Golf Course,Golf Course,"Henry Rd, Benzonia Township, MI, USA",0,,44.6246138,-86.0688093
+592,Mistwood Golf Course,Golf Course,"7658 Ole White Dr, Lake Ann, MI 49650, USA",0,,44.7421289,-85.8768647
+593,Elmbrook Golf Course,Golf Course,"1750 Townline Rd, Traverse City, MI 49696, USA",0,,44.7089882,-85.57036339999999
+594,Legend Golf Club at Shanty Creek Resort,Golf Course,"5780 Shanty Creek Rd, Bellaire, MI 49615, USA",0,,44.9488132,-85.18532560000001
+595,Crystal Lake Golf Club,Golf Course,"8493 Fairway Dr, Beulah, MI 49617, USA",0,,44.6411659,-86.07390339999999
+596,Champion Hill Golf Course,Golf Course,"501 N Marshall Rd, Beulah, MI 49617, USA",0,,44.6426718,-86.0338384
+597,Bay Meadows Family Golf Course,Golf Course,"5550 Bay Meadows Dr, Traverse City, MI 49684, USA",0,,44.7684001,-85.6794032
+598,Swanson Preserve,Other,"3952 Manitou Trail E, Cedar, MI 49621, USA",0,,44.9233066,-85.8208446
+599,Pearl Lake Natural Area,Other,"Lake Ann, MI 49650, USA",0,,44.72388910000001,-85.8431394
+600,Outrider Horseback Riding,Other,"7922 Ole White Dr, Lake Ann, MI 49650, USA",0,,44.7456578,-85.8783952
+601,Old Mission Peninsula Park,Parks & Rec,"Old Mission Rd, Traverse City, MI 49686, USA",0,,44.773376,-85.5874719
+602,Northport Beach,Parks & Rec,"Christmas Cove Beach, E Christmas Cove Rd, Northport, MI 49670, USA",0,,45.1688902,-85.63268509999999
+603,Nipissing & Trillium Ridge Trails,Parks & Rec,"9890 Old Dixie Hwy, Ellsworth, MI 49729, USA",0,,45.1773666,-85.3746158
+604,Muncie Lakes Pathway,Parks & Rec,"Ranch Rudolf Rd, Traverse City, MI 49696, USA",0,,44.6573075,-85.4729842
+605,Medalie Park,Parks & Rec,"Traverse City, MI 49686, USA",0,,44.8474167,-85.5303235
+606,Mayfield Pond Park,Parks & Rec,"Mill St, Kingsley, MI 49649, USA",0,,44.6263033,-85.5314425
+607,Lost Lake Pathway,Parks & Rec,"Lost Lake Pathway, Gonder Rd, Interlochen, MI 49643, USA",0,https://www.michigantrailmaps.com/member-detail/lost-lake-pathway/,44.6711327,-85.7984857
+608,Leland Harbor,Other,"107 N Lake St, Leland, MI 49654, USA",0,https://www.lelandmi.com/harbor/leland-harbor.html,45.0242455,-85.7616819
+609,Leelanau State Park,Parks & Rec,"15310 N Lighthouse Point Rd, Northport, MI 49670, USA",0,,45.2102018,-85.5499663
+610,Lake Township Park,Parks & Rec,"5153 N Scenic Hwy, Honor, MI 49640, USA",0,,44.7113284,-86.1171081
+611,Lake Michigan Beach Park,Parks & Rec,"Empire Beach, Empire, MI 49630, USA",0,,44.8120443,-86.0681292
+612,Lake Ann Pathway,Parks & Rec,"Pere Marquette State Forest, Cherry Valley Township, MI 49304, USA",0,,43.9647333,-85.7986722
+613,Kids Creek Park,Parks & Rec,"3315 US-31, Traverse City, MI 49684, USA",0,,44.734309,-85.64902649999999
+614,Krumwiede Forest Reserve,Parks & Rec,"5251 S Wheeler Rd, Maple City, MI 49664, USA",0,,44.9039796,-85.9092163
+615,Lower Woodcock Lake Nature Preserve,Parks & Rec,"Lower Woodcock Lake, Almira Township, MI 49643, USA",0,https://www.gtrlc.org/recreation-events/preserve/lower-woodcock-lake-nature-preserve/,44.7034104,-85.88380099999999
+616,Keith J. Charters Traverse City State Park,Parks & Rec,"1132 US-31, Traverse City, MI 49686, USA",0,,44.7464016,-85.55226359999999
+617,Horse Drawn Sleigh Rides and Hay Rides,Other,"6259 M-72, Williamsburg, MI 49690, USA",0,,44.7730791,-85.44910139999999
+618,Hickory Meadows,Parks & Rec,"Randolph St, Traverse City, MI 49684, USA",0,,44.7667569,-85.6462362
+619,Hickory Hills,Other,"2000 Randolph St, Traverse City, MI 49684, USA",0,,44.7681481,-85.6606
+620,Hayword Park,Parks & Rec,"8870 N Long Lake Rd, Traverse City, MI 49685, USA",0,,44.7464599,-85.7534063
+621,Kehl Lake Natural Area,Parks & Rec,"12625 N Kehl Rd, Northport, MI 49670, USA",0,,45.1698077,-85.5951493
+622,"Kayak, Bike and Brew",Other,"436 W Front St, Traverse City, MI 49684, USA",0,,44.7642968,-85.63007739999999
+623,Joy 2 Ride Benzie,Recreation Center,"Benzonia, MI 49616, USA",0,,44.6213885,-86.0992576
+624,Jacobson Marina Resort,Other,"15 4th St, Frankfort, MI 49635, USA",0,,44.63158560000001,-86.2398653
+625,Interlochen State Park,Parks & Rec,"4167 M-137, Interlochen, MI 49643, USA",0,,44.6264538,-85.7624215
+626,Houdek Dunes Natural Area,Parks & Rec,"5959 N Manitou Trail, Leland, MI 49654, USA",0,,45.068309,-85.69227149999999
+627,Keystone Rapids & Boardman Pond,Parks & Rec,"2500 Beitner Rd, Traverse City, MI 49685, USA",0,,44.6776554,-85.6267458
+628,Hawkins Outfitters,Other,"1605 Incochee Hill Dr, Traverse City, MI 49684, USA",0,,44.772856,-85.650893
+629,Haserot Beach Park,Parks & Rec,"Haserot Beach, Traverse City, MI 49686, USA",0,,44.9615738,-85.4852478
+630,Harbor West Yacht Club,Other,"12719 S W Bay Shore Dr, Traverse City, MI 49684, USA",0,,44.7928945,-85.63650160000002
+631,Hall Beach ,Parks & Rec,"205 Cedar St, Leland, MI 49654, USA",0,,45.02228540000001,-85.7624575
+632,Greilick Outdoor Recreation & Education Center,Parks & Rec,"4754 Scout Camp Rd, Traverse City, MI 49696, USA",0,,44.6698696,-85.47975269999999
+633,Grand Traverse Parasail,Other,"1469 US-31, Traverse City, MI 49686, USA",0,,44.7468706,-85.5469352
+634,Grand Traverse Natural Education Preserve,Parks & Rec,"1450 Cass Rd, Traverse City, MI 49684, USA",0,,44.7076013,-85.6249777
+635,Green Point Dunes Nature Preserve,Parks & Rec,"1198 Green Point Rd, Frankfort, MI 49635, USA",0,,44.59108579999999,-86.21706069999999
+636,Glen Arbor Municipal Beach,Parks & Rec,"S Lake St, Glen Arbor, MI 49636, USA",0,,44.8938329,-85.9861957
+637,Gold Coast Charter Service,Other,"212 Frankfort Ave, Elberta, MI 49628, USA",0,,44.622797,-86.22842399999999
+638,Gilbert Park,Parks & Rec,"N Long Lake Rd, Traverse City, MI, USA",0,,44.7552881,-85.6550554
+639,Fruithaven Nature Preserve,Parks & Rec,"Frankfort, MI 49635, USA",0,,44.6336096,-86.23453959999999
+640,Brown Bridge Quiet Area,Parks & Rec,"Brown Bridge Rd, Traverse City, MI 49686, USA",0,,44.6533311,-85.4534079
+641,Bryant Park,Parks & Rec,"1101 Peninsula Dr, Traverse City, MI 49686, USA",0,,44.766541,-85.59514229999999
+642,Cedar River Natural Area,Parks & Rec,"Stover Rd, Bellaire, MI 49615, USA",0,,44.975435,-85.183042
+643,Chippewa Run Natural Area,Parks & Rec,"11300 S Leelanau Hwy, Empire, MI 49630, USA",0,,44.818628,-86.0519037
+644,Clay Cliffs Natural Area,Parks & Rec,"4755 N Manitou Trail, Lake Leelanau, MI 49653, USA",0,,45.0511202,-85.7356125
+645,Clear Water Kayaks,Other,"3784 E Traverse Hwy, Traverse City, MI 49684, USA",0,,44.7781675,-85.7798462
+646,Crystal River Outfitters Recreational District,Parks & Rec,"6249 River Rd, Glen Arbor, MI 49636, USA",0,,44.8977723,-85.983907
+647,DeYoung Natural Area,Other,"9509 E Cherry Bend Rd, Traverse City, MI 49684, USA",0,,44.809436,-85.6537226
+648,East Shore Marina & Sea Joy Charters,Other,"324 Lake St, Frankfort, MI 49635, USA",0,,44.6285266,-86.22325409999999
+649,Fishtown Charter Services,Other,"1657 N Manitou Trail, Leland, MI 49654, USA",0,,45.0066175,-85.767769
+650,Victory Park Disc Golf Course,Golf Course,"591 Haven Rd, Albion, MI 49224, USA",0,,42.23769799999999,-84.74725370000002
+651,Calhoun County Fairgrounds,Other,"720 Fair St, Marshall, MI 49068, USA",0,,42.2654228,-84.9491575
+652,Bowers Harbor Park,Parks & Rec,"2750 Bowers Harbor Rd, Traverse City, MI 49686, USA",0,,44.8935676,-85.52049199999999
+653,Beulah Public Beach,Parks & Rec,"139 Lake St, Beulah, MI 49617, USA",0,,44.63,-86.0953412
+654,Betsie River Pathway,Other,"7722-7832 Longstreet Rd, Benzonia, MI 49616, USA",0,,44.5288796,-86.0394408
+655,Betsie Bay Marina,Other,"100 Frankfort Ave, Elberta, MI 49628, USA",0,,44.6243949,-86.2297444
+656,Aussie Watersports,Other,"833 E Front St, Traverse City, MI 49686, USA",0,,44.76517519999999,-85.60340889999999
+657,Arcadia Dunes: The C.S. Mott Nature Preserve,Parks & Rec,"Gilbert Rd, Arcadia, MI 49613, USA",0,,44.4995509,-86.2015108
+658,Arbutus Lake No. 5 Park,Parks & Rec,"506 E Arbutus Lake Rd, Traverse City, MI 49696, USA",0,,44.6779281,-85.51004449999999
+659,Almira Township Lakefront Park,Parks & Rec,"Almira Township Lakefront Park, 19498 Maple St, Lake Ann, MI 49650, USA",0,,44.7228697,-85.8459985
+660,The Crown Golf Course,Golf Course,"2430 W Crown Dr, Traverse City, MI 49685, USA",0,,44.7202908,-85.6874259
+661,Sugar Loaf Golf Course,Golf Course,"4512 S Town Line Rd, Cedar, MI 49621, USA",0,,44.9127781,-85.8133824
+662,Interlochen Golf Course,Golf Course,"10586 US-31, Interlochen, MI 49643, USA",0,,44.6601193,-85.7900087
+663,Bahle Farms Golf Course,Golf Course,"9505 E Otto Rd, Suttons Bay, MI 49682, USA",0,,44.93743509999999,-85.6680343
+664,The Grand Traverse Commons Natural Area,Other,"Red Dr, Traverse City, MI 49684, USA",0,,44.7522412,-85.6464053
+665,Teichner Preserve,Other,"S Lime Lake Rd, Cleveland Township, MI 49621, USA",0,,44.8969809,-85.8287589
+666,TC Bass Destination Charters,Other,"1495 Newport St, Traverse City, MI 49686, USA",0,,44.742196,-85.60929800000001
+667,South Long Lake Forest Natural Area,Other,"Traverse City, MI 49685, USA",0,,44.7138218,-85.7051116
+668,Shanty Creek Resort,Recreation Center,"5780 Shanty Creek Rd, Bellaire, MI 49615, USA",0,,44.9488132,-85.18532560000001
+669,Reffitt Nature Preserve,Other,"West Ln, Traverse City, MI 49684, USA",0,,44.7456105,-85.6271362
+670,PlayNorth Watersports,Aquatic Center,"E Otto Rd, Bingham Township, MI, USA",0,,44.9328021,-85.6845917
+671,Mt. Brighton,Other,"4141 Bauer Rd, Brighton, MI 48116, USA",0,,42.5408278,-83.8114172
+672,Brighton Bowl,Recreation Center,"9871 Grand River Ave, Brighton, MI 48116, USA",0,,42.5228247,-83.765226
+673,Howell Public Schools,Public (K-12) School,"411 N Highlander Way, Howell, MI 48843, USA",0,,42.61463759999999,-83.95198859999999
+674,Howell Bowl E-Drome,Recreation Center,"907 E Grand River Rd, Howell, MI 48843, USA",0,,42.6028913,-83.9189244
+675,Pinckney Community High School,Public (K-12) School,"10255 Dexter-Pinckney Rd, Pinckney, MI 48169, USA",0,,42.4497424,-83.93615740000001
+676,Howell Area Parks & Recreation,Parks & Rec,"1661 N Latson Rd, Howell, MI 48843, USA",0,,42.6249529,-83.8754543
+677,Aquatic Adventures of Michigan,Recreation Center,"9996 E Highland Rd, Hartland, MI 48353, USA",0,,42.6329455,-83.75321749999999
+678,Whitmore Lake Golf Links,Golf Course,"1111 Six Mile Rd, Whitmore Lake, MI 48189, USA",0,,42.4021943,-83.7407066
+679,Saginaw Field & Stream Club,Recreation Center,"1296 N Gleaner Rd, Saginaw, MI 48609, USA",0,,43.4273023,-84.1454923
+680,Liberty Park,Parks & Rec,"3670 Southfield Dr, Saginaw, MI 48601, USA",0,,43.3688073,-83.9066849
+681,Currie Municipal Golf Course,Golf Course,"1300 Currie Pkwy, Midland, MI 48640, USA",0,,43.6154978,-84.26291300000001
+682,Bachelor One Fishing Charter,Other,"1862 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7899121,-86.18733379999999
+683,Beau H2O Excursions,Other,"1866 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7883128,-86.18618169999999
+684,Bending Limits Sportfishing Charters,Other,"2223 S Shore Dr, Macatawa, MI 49434, USA",0,,42.7689824,-86.19926219999999
+685,Black Lake Boardwalk,Parks & Rec,"2278 Black Lake Ave, Holland, MI 49424, USA",0,,42.775026,-86.2012902
+686,Black Pearl Sportfishing,Other,"2223 S Shore Dr, Macatawa, MI 49434, USA",0,,42.7689824,-86.19926219999999
+687,Degraaf Nature Center,Parks & Rec,"600 Graafschap Rd, Holland, MI 49423, USA",0,,42.7746507,-86.1380288
+688,Eldean Shipyard and Marina,Recreation Center,"2223 S Shore Dr, Macatawa, MI 49434, USA",0,,42.7689824,-86.19926219999999
+689,Fairview Nature Park,Parks & Rec,"6257 138th Ave, Holland, MI 49423, USA",0,,42.6960942,-86.1599404
+690,Hawthorn Pond Natural Area,Parks & Rec,"9876 Black River Ct, Holland, MI 49424, USA",0,,42.7779563,-86.0256217
+691,Hemlock Crossing,Parks & Rec,"8115 W Olive Rd, West Olive, MI 49460, USA",0,,42.9154978,-86.1510702
+692,Dune Pines Nature Preserve,Other,"4574 S Audubon St, Holland, MI 49423, USA",0,,42.7518737,-86.2002831
+693,Pigeon Creek Park,Parks & Rec,"12524 Stanton St, West Olive, MI 49460, USA",0,,42.9358569,-86.09509919999999
+694,Paw Paw Park,Parks & Rec,"1230 Paw Paw Dr, Holland, MI 49423, USA",0,,42.7996499,-86.05423499999999
+695,Olive Shores,Other,"8555 Olive Shore Ave, West Olive, MI 49460, USA",0,,42.92310639999999,-86.2130901
+696,N' Pursuit Charters LLC,Other,"1866 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7883128,-86.18618169999999
+697,Kollen Park,Parks & Rec,"240 Kollen Park Dr, Holland, MI 49423, USA",0,,42.78736749999999,-86.1233136
+698,Kirk Park,Parks & Rec,"9791 Lake Shore Dr, West Olive, MI 49460, USA",0,,42.927196,-86.214964
+699,Albert C Keppel Forest Preserve,Parks & Rec,"2100-2110 W Lakewood Blvd, Holland, MI 49424, USA",0,,42.8041177,-86.19613249999999
+700,JJ Sportfishing Charters,Other,"1862 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7899121,-86.18733379999999
+701,Huyser Farm Park,Parks & Rec,"64th St, Holland, MI 49423, USA",0,,42.7455897,-86.0754066
+702,Sufishient Charters,Other,"1866 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7883128,-86.18618169999999
+703,STU Visser Trails,Other,"25 152nd Ave, Holland, MI 49424, USA",0,,42.79512889999999,-86.1571587
+704,Shore Acres Township Park,Parks & Rec,"6602 138th Ave, Holland, MI 49423, USA",0,,42.6977303,-86.1970728
+705,Saugatuck Dunes State Park,Parks & Rec,"6575 138th Ave, Holland, MI 49423, USA",0,,42.6968398,-86.1902751
+706,Sanctuary Woods Preserve,Other,"32nd St, Holland, MI 49423, USA",0,,42.7683419,-86.137046
+707,Reel Talk Sportfishing Charters,Other,"1866 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7883128,-86.18618169999999
+708,Powderhorn Sportfishing Charters,Other,"1866 Ottawa Beach Rd: Slip, E31, Holland, MI 49424, USA",0,,42.7894058,-86.1872988
+709,Port Sheldon Natural Area,Other,"6260 160th Ave, West Olive, MI 49460, USA",0,,42.88212679999999,-86.17896209999999
+710,Pirate's Landing Miniature Golf,Other,"375 Douglas Ave, Holland, MI 49424, USA",0,,42.7978087,-86.1247456
+711,Windsnest Park,Other,"Margaret Ave, Port Sheldon Township, MI 49460, USA",0,,42.9076834,-86.2143124
+712,Van Buren Street Dunes,Other,"16780 Van Buren St, West Olive, MI 49460, USA",0,,42.866585,-86.19805889999999
+713,Upper Macatawa Natural Area,Parks & Rec,"1300 84th Ave, Zeeland, MI 49464, USA",0,,42.7931095,-85.98855329999999
+714,Unsalted Outfitters,Other,"1830 Ottawa Beach Rd, Holland, MI 49424, USA",0,,42.7915614,-86.1868915
+715,Sundae Sundae Golf Golf,Golf Course,"631 E Lakewood Blvd, Holland, MI 49424, USA",0,,42.8053673,-86.0816905
+716,USA Hockey Arena,Recreation Center,"14900 Beck Rd, Plymouth, MI 48170, USA",0,,42.3892013,-83.5065204
+717,Merri-Bowl,Recreation Center,"30950 Five Mile Rd, Livonia, MI 48154, USA",0,,42.3989341,-83.3507198
+718,Grand Travese Resort and Spa,Golf Course,"100 Grand Traverse Village Blvd, Acme, MI 49610, USA",0,,44.778425,-85.4876644
+719,Ostego County Community Center,Recreation Center,"315 S Center Ave, Gaylord, MI 49735, USA",0,,45.0248127,-84.673339
+720,Otsego Lake County Park,Parks & Rec,"1657 County Park Rd, Gaylord, MI 49735, USA",0,,44.96653509999999,-84.70333819999999
+721,Otsego Lake State Park,Parks & Rec,"7136 Old Hwy 27 S, Gaylord, MI 49735, USA",0,,44.9209609,-84.6920303
+722,Treetops Resort,Golf Course,"3962 Wilkinson Rd, Gaylord, MI 49735, USA",0,,45.0312277,-84.5937644
+723,Aspen State Park,Parks & Rec,"Commerce Blvd, Gaylord, MI 49735, USA",0,,45.0127281,-84.6732687
+724,Powerhouse Gym,Fitness Center,"1044 W Main St, Gaylord, MI 49735, USA",0,,45.0295663,-84.69066769999999
+725,Alpine Regional Tennis Association (ARTA),Tennis Complex,"Gaylord, MI 49735, USA",0,,45.0275126,-84.6747523
+726,Tomac Woods Golf Course,Golf Course,"14827 26 1/2 Mile Rd, Albion, MI 49224, USA",0,,42.2857894,-84.7863162
+727,The Medalist Golf Club,Golf Course,"15701 N-Drive N, Marshall, MI 49068, USA",0,,42.353973,-84.994633
+728,Squirrel Hollow Golf Course,Golf Course,"Helmer Rd N, Battle Creek, MI 49015, USA",0,,42.3109002,-85.2370915
+729,Springbrook Golf Course,Golf Course,"Battle Creek Ave, Battle Creek, MI 49015, USA",0,,42.312942,-85.1997449
+730,Riverside Golf Club,Golf Course,"245 E Columbia Ave, Battle Creek, MI 49015, USA",0,,42.2991719,-85.1844454
+731,Oakland Hills,Golf Course,"11619 H Dr N, Battle Creek, MI 49014, USA",0,,42.3090873,-85.0695697
+732,Michigan Southern Swing,Golf Course,"34 Jackson St W, Battle Creek, MI 49017, USA",0,,42.3198822,-85.1837788
+733,Marywood Golf Club,Golf Course,"21310 North Ave, Battle Creek, MI 49017, USA",0,,42.3844535,-85.1699702
+734,Lake Doster Golf Club,Golf Course,"116 Country Club Blvd, Plainwell, MI 49080, USA",0,,42.437054,-85.55566139999999
+735,Island Hills Golf Club,Golf Course,"61809 Stonegate Dr, Centreville, MI 49032, USA",0,,41.9003303,-85.50358600000001
+736,Gull Lake View Resort,Golf Course,"7417 N 38th St, Augusta, MI 49012, USA",0,,42.3677632,-85.3860729
+737,Custer Greens,Golf Course,"5500 Armstrong Rd, Battle Creek, MI 49037, USA",0,,42.3416609,-85.29356469999999
+738,Cedar Creek Golf Club,Golf Course,"14000 Renton Rd, Battle Creek, MI 49015, USA",0,,42.2752951,-85.27713340000001
+739,M66 Bowl,Recreation Center,"19794 Capital Ave NE, Battle Creek, MI 49017, USA",0,,42.3594495,-85.1480985
+740,Linear Park Trail,Parks & Rec,"35 W Hamblin Ave, Battle Creek, MI 49017, USA",0,,42.3184036,-85.1866517
+741,Marshall Recreation Department ,Recreation Center,"900 S Marshall Ave, Marshall, MI 49068, USA",0,,42.263285,-84.9543368
+742,Willard Beach and Park,Parks & Rec,"Capital Ave SW, Battle Creek, MI, USA",0,,42.2841163,-85.1990731
+743,Wilder Creek Conservation Area ,Parks & Rec,"19833 D Dr S, Marshall, MI 49068, USA",0,,42.2274606,-84.90883280000001
+744,Stuart’s Landing,Parks & Rec,"Homer Rd, Marshall, MI 49068, USA",0,,42.2485699,-84.9380594
+745,Riverview Recreation,Parks & Rec,"2000 E Columbia Ave, Battle Creek, MI 49014, USA",0,,42.3094151,-85.1462236
+746,Reiger & Victory Parks,Parks & Rec,"E-Drive N, Sheridan Township, MI 49224, USA",0,,42.2832357,-84.7901407
+747,Paddler’s Grove,Parks & Rec,"S River Rd, Battle Creek, MI 49014, USA",0,,42.2964578,-85.164541
+748,Ott Biological Preserve,Parks & Rec,"Arlington Ave, Emmett Charter Township, MI 49014, USA",0,,42.3118501,-85.121676
+749,Mill Race Park,Parks & Rec,"E Michigan Ave, Battle Creek, MI, USA",0,,42.311731,-85.155184
+750,Leila Arboretum,Parks & Rec,"928 W Michigan Ave, Battle Creek, MI 49037, USA",0,,42.3390172,-85.213364
+751,Ketchum Park,Parks & Rec,"731 Montgomery St, Marshall, MI 49068, USA",0,,42.2680659,-84.9494217
+752,Irving Park,Parks & Rec,"311 East Ave N, Battle Creek, MI 49017, USA",0,,42.3356535,-85.1610403
+753,Excalibur Paintball & Airsoft,Recreation Center,"10580 Gorsline Rd, Battle Creek, MI 49014, USA",0,,42.3440652,-85.0907423
+754,Holland Park,Parks & Rec,"N Albion St, Albion, MI 49224, USA",0,,42.251442,-84.7621798
+755,Historic Bridge Park,Parks & Rec,"14930 9 Mile Rd, Battle Creek, MI 49014, USA",0,,42.2892979,-85.1191109
+756,Calhoun County Trailway,Parks & Rec,"14930 9 Mile Rd, Battle Creek, MI 49014, USA",0,,42.2892979,-85.1191109
+757,Brooks Nature Area,Parks & Rec,"18 1/2 Mile Rd, Marshall, MI, USA",0,,42.2844895,-84.9364366
+758,Begg Park ,Parks & Rec,"53 Military St, Springfield, MI 49037, USA",0,,42.3250686,-85.2640006
+759,Bernard W. Baker Sanctuary,Parks & Rec,"21145 15 Mile Rd, Bellevue, MI 49021, USA",0,,42.3793033,-85.00792349999999
+760,Albion River Trail,Parks & Rec,"Albion, MI 49224, USA",0,,42.243097,-84.7530304
+761,Marshall’s Riverwalk,Parks & Rec,"323 W Michigan Ave, Marshall, MI 49068, USA",0,,42.2714437,-84.9637917
+762,Grever’s Nature Center,Parks & Rec,"Verona Rd, Marshall, MI, USA",0,,42.2756894,-84.9765937
+763,Full Blast & Flash Flood Waterpark ,Recreation Center,"35 Hamblin Ave, Battle Creek, MI 49017, USA",0,,42.3183719,-85.18658420000001
+764,Fort Custer Recreation Area,Parks & Rec,"5163 Fort Custer Dr, Augusta, MI 49012, USA",0,,42.3267651,-85.349486
+765,Gull Lake View Golf Club & Resort,Golf Course,"7417 N 38th St, Augusta, MI 49012, USA",0,,42.3677632,-85.3860729
+766,Waterford BMX,Recreation Center,"1702 Scott Lake Rd, Waterford Twp, MI 48328, USA",0,,42.6642305,-83.34512459999999
+767,Five Star Lanes,Recreation Center,"2666 Metro Pkwy, Sterling Heights, MI 48310, USA",0,,42.562605,-83.08160219999999
+768,Detroit Skating Club,Recreation Center,"888 Denison Ct, Bloomfield Hills, MI 48302, USA",0,,42.6077227,-83.29156979999999
+769,Lake St. Clair,Parks & Rec,"33135 S River Rd, Harrison Charter Township, MI 48045, USA",0,,42.5928294,-82.7724243
+770,Oakland Hills Country Club,Golf Course,"3951 W Maple Rd, Bloomfield Twp, MI 48301, USA",0,,42.5433777,-83.2733459
